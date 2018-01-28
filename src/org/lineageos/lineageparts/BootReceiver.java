@@ -22,13 +22,10 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.preference.PreferenceManager;
 
-/*
 import org.lineageos.lineageparts.contributors.ContributorsCloudFragment;
 import org.lineageos.lineageparts.gestures.TouchscreenGestureSettings;
-*/
 import org.lineageos.lineageparts.input.ButtonSettings;
 
-/*
 public class BootReceiver extends BroadcastReceiver {
 
     private static final String TAG = "BootReceiver";
@@ -42,7 +39,6 @@ public class BootReceiver extends BroadcastReceiver {
             setRestoredTunable(ctx);
         }
 
-        /*
         TouchscreenGestureSettings.restoreTouchscreenGestureStates(ctx);
 
         // Extract the contributors database
@@ -59,4 +55,3 @@ public class BootReceiver extends BroadcastReceiver {
         preferences.edit().putBoolean(ONE_TIME_TUNABLE_RESTORE, true).apply();
     }
 }
-*/
