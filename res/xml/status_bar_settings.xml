@@ -95,6 +95,7 @@
     </PreferenceCategory>
 -->
 
+<!--
     <PreferenceCategory
         android:title="@string/status_bar_brightness_category">
 
@@ -118,5 +119,6 @@
             android:summary="@string/status_bar_toggle_brightness_summary"
             android:defaultValue="false" />
     </PreferenceCategory>
+-->
 
 </PreferenceScreen>
