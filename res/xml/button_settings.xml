@@ -46,6 +46,12 @@
             android:title="@string/navigation_bar_title">
             <intent android:action="com.android.settings.action.NAV_BAR_TUNER" />
         </PreferenceScreen>
+        
+        <lineageos.preference.LineageSystemSettingSwitchPreference
+                android:key="pixel_nav_animation"
+                android:title="@string/pixel_navbar_anim_title"
+                android:summary="@string/pixel_navbar_anim_summary"
+                android:defaultValue="true" />
 
         <ListPreference
             android:key="navigation_home_long_press"
