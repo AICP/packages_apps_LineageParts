@@ -654,4 +654,8 @@
     <string name="touchscreen_gesture_action_next_track">Skip to the next music track</string>
     <string name="touchscreen_gesture_action_volume_down">Lower media volume</string>
     <string name="touchscreen_gesture_action_volume_up">Raise media volume</string>
+
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Enable Pixel navbar animation</string>
+    <string name="pixel_navbar_anim_summary">Requires a SystemUI restart</string>
 </resources>
