@@ -352,10 +352,11 @@
 
     <!-- Supported accent packages -->
     <string-array name="accent_packages" translatable="false">
+        <item>org.lineageos.overlay.accent.amber</item>
+        <item>org.lineageos.overlay.accent.teal</item>
         <item>org.lineageos.overlay.accent.red</item>
         <item>org.lineageos.overlay.accent.pink</item>
         <item>org.lineageos.overlay.accent.purple</item>
-        <item>org.lineageos.overlay.accent.blue</item>
         <item>org.lineageos.overlay.accent.cyan</item>
         <item>org.lineageos.overlay.accent.green</item>
         <item>org.lineageos.overlay.accent.orange</item>
