@@ -232,19 +232,14 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
             } catch (RemoteException e) {
             }
 
-            // Remove keys that can be provided by the navbar
-            updateDisableNavkeysOption();
-            mNavigationPreferencesCat.setEnabled(mDisableNavigationKeys.isChecked());
-            updateDisableNavkeysCategories(mDisableNavigationKeys.isChecked());
-
-/*            if (needsNavigationBar) {
+            if (needsNavigationBar) {
                 prefScreen.removePreference(mDisableNavigationKeys);
             } else {
                 // Remove keys that can be provided by the navbar
                 updateDisableNavkeysOption();
                 mNavigationPreferencesCat.setEnabled(mDisableNavigationKeys.isChecked());
                 updateDisableNavkeysCategories(mDisableNavigationKeys.isChecked());
-            }   */
+            }
         } else {
             prefScreen.removePreference(mDisableNavigationKeys);
         }
