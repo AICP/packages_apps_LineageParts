@@ -288,7 +288,7 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
 
             Action longPressAction = Action.fromSettings(resolver,
                         LineageSettings.System.KEY_MENU_LONG_PRESS_ACTION,
-                        hasAssistKey ? Action.NOTHING : Action.APP_SWITCH);
+                        hasAssistKey ? Action.NOTHING : Action.SEARCH);
             mMenuLongPressAction = initList(KEY_MENU_LONG_PRESS, longPressAction);
 
             hasAnyBindableKey = true;
