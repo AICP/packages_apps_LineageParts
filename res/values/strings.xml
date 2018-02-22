@@ -653,10 +653,6 @@
     <string name="touchscreen_gesture_action_volume_down">Lower media volume</string>
     <string name="touchscreen_gesture_action_volume_up">Raise media volume</string>
 
-    <!-- Navbar Animation -->
-    <string name="pixel_navbar_anim_title">Enable Pixel navbar animation</string>
-    <string name="pixel_navbar_anim_summary">Requires a SystemUI restart</string>
-
     <!-- Berry Lite -->
     <string name="style_title">Style</string>
     <string name="style_summary">Choose system colors</string>
