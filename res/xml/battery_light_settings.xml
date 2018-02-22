@@ -40,6 +40,20 @@
         android:title="@string/battery_light_list_title"
         android:dependency="battery_light_enabled" >
 
+        <com.aicp.gear.preference.SystemSettingSwitchPreference
+            android:key="battery_light_blend_color"
+            android:title="@string/battery_light_blend_color_title"
+            android:summary="@string/battery_light_blend_color_summary"
+            android:defaultValue="false" />
+
+        <com.aicp.gear.preference.SystemSettingSwitchPreference
+            android:key="battery_light_blend_color_reverse"
+            android:title="@string/battery_light_blend_color_reverse_title"
+            android:summaryOn="@string/battery_light_blend_color_reverse_summary_on"
+            android:summaryOff="@string/battery_light_blend_color_reverse_summary_off"
+            android:dependency="battery_light_blend_color"
+            android:defaultValue="false" />
+
         <org.lineageos.lineageparts.notificationlight.ApplicationLightPreference
             android:key="low_color"
             android:title="@string/battery_light_low_color_title"

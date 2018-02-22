@@ -22,8 +22,11 @@ LOCAL_RESOURCE_DIR := \
     frameworks/support/v7/appcompat/res \
     frameworks/support/v7/recyclerview/res
 
+LOCAL_STATIC_JAVA_LIBRARIES += AicpGear
+LOCAL_RESOURCE_DIR += frameworks/opt/aicpgear/res
+
 LOCAL_AAPT_FLAGS := --auto-add-overlay \
-    --extra-packages android.support.v7.preference:android.support.v14.preference:android.support.v17.preference:android.support.v7.appcompat:android.support.v7.recyclerview
+    --extra-packages android.support.v7.preference:android.support.v14.preference:android.support.v17.preference:android.support.v7.appcompat:android.support.v7.recyclerview:com.aicp.gear
 
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
