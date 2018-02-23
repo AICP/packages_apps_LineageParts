@@ -63,11 +63,13 @@
                 android:value="org.lineageos.lineageparts.PartsUpdater" />
         </activity>
 
+        <!--
         <receiver android:name=".BootReceiver" android:enabled="true">
             <intent-filter android:priority="2147483647">
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
+        -->
 
         <receiver android:name=".PartsUpdater" android:enabled="true">
             <intent-filter>
@@ -150,7 +152,9 @@
                 android:value="@string/summary_empty" />
         </activity-alias>
 
+        <!--
         <activity android:name=".gestures.KeyHandler" />
+        -->
 
         <!-- Profiles settings (System category) -->
         <activity-alias
