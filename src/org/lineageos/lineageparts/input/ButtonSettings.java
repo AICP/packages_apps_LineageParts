@@ -44,7 +44,7 @@ import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;
 import org.lineageos.lineageparts.utils.DeviceUtils;
 import org.lineageos.lineageparts.utils.TelephonyUtils;
-import org.lineageos.internal.util.QSUtils;
+//import org.lineageos.internal.util.QSUtils;
 import org.lineageos.internal.util.ScreenType;
 
 import java.util.List;
