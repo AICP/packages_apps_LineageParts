@@ -71,13 +71,16 @@
         <item name="contentInsetStart">@dimen/actionbar_subsettings_contentInsetStart</item>
     </style>
 
-    <style name="ThemeOverlay.SwitchBar.Settings" parent="@android:style/ThemeOverlay.Material.ActionBar">
+    <!-- Exposed style for our (AICP) inbuilt dark theme so no private resources need to be referenced -->
+    <style name="ThemeOverlay.SwitchBar.Base" parent="@android:style/ThemeOverlay.Material.ActionBar" />
+
+    <style name="ThemeOverlay.SwitchBar.Settings" parent="@style/ThemeOverlay.SwitchBar.Base">
         <item name="switchBarMarginStart">@dimen/switchbar_subsettings_margin_start</item>
         <item name="switchBarMarginEnd">@dimen/switchbar_subsettings_margin_end</item>
         <item name="switchBarBackgroundColor">?android:attr/colorSecondary</item>
     </style>
 
-    <style name="ThemeOverlay.SwitchBar.SubSettings" parent="@android:style/ThemeOverlay.Material.ActionBar">
+    <style name="ThemeOverlay.SwitchBar.SubSettings" parent="@style/ThemeOverlay.SwitchBar.Base">
         <item name="switchBarMarginStart">@dimen/switchbar_subsettings_margin_start</item>
         <item name="switchBarMarginEnd">@dimen/switchbar_subsettings_margin_end</item>
         <item name="switchBarBackgroundColor">?android:attr/colorSecondary</item>
