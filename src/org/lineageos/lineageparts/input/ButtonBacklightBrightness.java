@@ -17,6 +17,7 @@
 
 package org.lineageos.lineageparts.input;
 
+/*
 import android.app.AlertDialog;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -41,9 +42,11 @@ import org.lineageos.lineageparts.R;
 import static org.lineageos.internal.util.DeviceKeysConstants.*;
 
 import lineageos.providers.LineageSettings;
+*/
 
-public class ButtonBacklightBrightness extends CustomDialogPreference<AlertDialog> implements
-        SeekBar.OnSeekBarChangeListener {
+public class ButtonBacklightBrightness /*extends CustomDialogPreference<AlertDialog> implements
+        SeekBar.OnSeekBarChangeListener*/ {
+/*
     private static final int DEFAULT_BUTTON_TIMEOUT = 5;
 
     public static final String KEY_BUTTON_BACKLIGHT = "pre_navbar_button_backlight";
@@ -67,13 +70,13 @@ public class ButtonBacklightBrightness extends CustomDialogPreference<AlertDialo
 
         setDialogLayoutResource(R.layout.button_backlight);
 
-        /*
+        *//*
         if (isKeyboardSupported()) {
             mKeyboardBrightness = new BrightnessControl(
                     LineageSettings.Secure.KEYBOARD_BRIGHTNESS, false);
             mActiveControl = mKeyboardBrightness;
         }
-        */
+        *//*
         if (isButtonSupported()) {
             boolean isSingleValue = !context.getResources().getBoolean(
                     com.android.internal.R.bool.config_deviceHasVariableButtonBrightness);
@@ -239,12 +242,12 @@ public class ButtonBacklightBrightness extends CustomDialogPreference<AlertDialo
         return hasBacklightKey && hasBacklight;
     }
 
-    /*
+    *//*
     public boolean isKeyboardSupported() {
         return getContext().getResources().getInteger(
                 com.android.internal.R.integer.config_keyboardBrightnessSettingDefault) > 0;
     }
-    */
+    *//*
 
     public void updateSummary() {
         if (mButtonBrightness != null) {
@@ -417,7 +420,7 @@ public class ButtonBacklightBrightness extends CustomDialogPreference<AlertDialo
             LineageSettings.Secure.putInt(mResolver, mSetting, getBrightness(false));
         }
 
-        /* Behaviors when it's a seekbar */
+        *//* Behaviors when it's a seekbar *//*
         @Override
         public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
             handleBrightnessUpdate(progress);
@@ -433,7 +436,7 @@ public class ButtonBacklightBrightness extends CustomDialogPreference<AlertDialo
             // Do nothing here
         }
 
-        /* Behaviors when it's a plain checkbox */
+        *//* Behaviors when it's a plain checkbox *//*
         @Override
         public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
             mActiveControl = this;
@@ -461,4 +464,5 @@ public class ButtonBacklightBrightness extends CustomDialogPreference<AlertDialo
             updateTimeoutEnabledState();
         }
     }
+*/
 }
