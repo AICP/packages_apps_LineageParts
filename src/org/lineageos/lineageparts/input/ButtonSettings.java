@@ -17,6 +17,7 @@
 
 package org.lineageos.lineageparts.input;
 
+/*
 import android.content.ComponentName;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -42,7 +43,9 @@ import android.view.KeyEvent;
 import android.view.WindowManagerGlobal;
 
 import org.lineageos.lineageparts.R;
+*/
 import org.lineageos.lineageparts.SettingsPreferenceFragment;
+/*
 import org.lineageos.lineageparts.utils.DeviceUtils;
 import org.lineageos.lineageparts.utils.TelephonyUtils;
 import org.lineageos.internal.util.ScreenType;
@@ -53,9 +56,11 @@ import java.util.List;
 
 import lineageos.hardware.LineageHardwareManager;
 import lineageos.providers.LineageSettings;
+*/
 
-public class ButtonSettings extends SettingsPreferenceFragment implements
-        Preference.OnPreferenceChangeListener {
+public class ButtonSettings extends SettingsPreferenceFragment /*implements
+        Preference.OnPreferenceChangeListener*/ {
+/*
     private static final String TAG = "SystemSettings";
 
     private static final String KEY_BUTTON_BACKLIGHT = "button_backlight";
@@ -237,14 +242,14 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
             mNavigationPreferencesCat.setEnabled(mDisableNavigationKeys.isChecked());
             updateDisableNavkeysCategories(mDisableNavigationKeys.isChecked());
 
-/*            if (needsNavigationBar) {
+*//*            if (needsNavigationBar) {
                 prefScreen.removePreference(mDisableNavigationKeys);
             } else {
                 // Remove keys that can be provided by the navbar
                 updateDisableNavkeysOption();
                 mNavigationPreferencesCat.setEnabled(mDisableNavigationKeys.isChecked());
                 updateDisableNavkeysCategories(mDisableNavigationKeys.isChecked());
-            }   */
+            }   *//*
         } else {
             prefScreen.removePreference(mDisableNavigationKeys);
         }
@@ -409,7 +414,7 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
 
         final ButtonBacklightBrightness backlight =
                 (ButtonBacklightBrightness) findPreference(KEY_BUTTON_BACKLIGHT);
-        if (!backlight.isButtonSupported() /*&& !backlight.isKeyboardSupported()*/) {
+        if (!backlight.isButtonSupported() *//*&& !backlight.isKeyboardSupported()*//*) {
             prefScreen.removePreference(backlight);
         }
 
@@ -547,7 +552,7 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
     private void updateDisableNavkeysCategories(boolean navbarEnabled) {
         final PreferenceScreen prefScreen = getPreferenceScreen();
 
-        /* Disable hw-key options if they're disabled */
+        *//* Disable hw-key options if they're disabled *//*
         final PreferenceCategory homeCategory =
                 (PreferenceCategory) prefScreen.findPreference(CATEGORY_HOME);
         final PreferenceCategory backCategory =
@@ -561,14 +566,14 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
         final ButtonBacklightBrightness backlight =
                 (ButtonBacklightBrightness) prefScreen.findPreference(KEY_BUTTON_BACKLIGHT);
 
-        /* Toggle backlight control depending on navbar state, force it to
-           off if enabling */
+        *//* Toggle backlight control depending on navbar state, force it to
+           off if enabling *//*
         if (backlight != null) {
             backlight.setEnabled(!navbarEnabled);
             backlight.updateSummary();
         }
 
-        /* Toggle hardkey control availability depending on navbar state */
+        *//* Toggle hardkey control availability depending on navbar state *//*
         if (mNavigationPreferencesCat != null) {
             if (navbarEnabled) {
                 mNavigationPreferencesCat.addPreference(mNavigationHomeLongPressAction);
@@ -672,4 +677,5 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
                         ? LineageSettings.Secure.RING_HOME_BUTTON_BEHAVIOR_ANSWER
                         : LineageSettings.Secure.RING_HOME_BUTTON_BEHAVIOR_DO_NOTHING));
     }
+*/
 }
