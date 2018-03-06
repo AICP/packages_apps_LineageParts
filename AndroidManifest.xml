@@ -176,6 +176,7 @@
         </activity-alias>
 
         <!-- Status bar settings (System category) -->
+        <!-- Integrated into AE
         <activity-alias
             android:name=".statusbar.StatusBarSettings"
             android:label="@string/status_bar_title"
@@ -193,6 +194,7 @@
                 android:name="com.android.settings.summary"
                 android:resource="@string/summary_empty" />
         </activity-alias>
+        -->
 
         <!-- Style settings (Display category) -->
         <activity-alias

@@ -14,6 +14,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!-- IMPORTANT! Dear AICP mergers!
+    Status bar settings have been moved to AE, so to get settings parts for new features to show up,
+    add it there!
+-->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:lineage="http://schemas.android.com/apk/res/lineageos.platform"
