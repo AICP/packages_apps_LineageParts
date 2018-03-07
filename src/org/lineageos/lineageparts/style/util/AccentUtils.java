@@ -94,7 +94,7 @@ public final class AccentUtils {
     @NonNull
     private static Accent getDefaultAccent(Context context) {
         return new Accent(context.getString(R.string.style_accent_default_name),
-                StyleInterface.ACCENT_DEFAULT, Color.parseColor("#4182EF"), StyleStatus.DYNAMIC);
+                StyleInterface.ACCENT_DEFAULT, Color.parseColor("#3367D6"), StyleStatus.DYNAMIC);
     }
 
     public static boolean isCompatible(StyleStatus currentStatus, Accent accent) {
