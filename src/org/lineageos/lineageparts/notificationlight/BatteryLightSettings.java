@@ -153,7 +153,6 @@ public class BatteryLightSettings extends SettingsPreferenceFragment implements
                     prefSet.findPreference(BLEND_COLOR_REVERSE_PREF);
         } else {
             prefSet.removePreference(prefSet.findPreference(COLORS_SECTION));
-            resetColors();
         }
 
         // Remove battery LED brightness controls if we can't support them.
