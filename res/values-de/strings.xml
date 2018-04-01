@@ -197,6 +197,7 @@
   <!-- Key backlight -->
   <string name="button_backlight_title">Hintergrundbeleuchtung</string>
   <string name="button_backlight_enabled">Tasten beleuchten</string>
+  <string name="button_backlight_only_when_pressed_title">Tasten nur beleuchten, wenn sie gedrückt werden</string>
   <string name="keyboard_backlight_enabled">Tastatur beleuchten</string>
   <string name="button_backlight_seekbar_title">Tasten-Helligkeit</string>
   <string name="keyboard_backlight_seekbar_title">Tastatur-Helligkeit</string>
@@ -556,4 +557,24 @@
   <string name="touchscreen_gesture_action_play_pause_music">Musikwiedergabe starten/anhalten</string>
   <string name="touchscreen_gesture_action_previous_track">Zum vorherigen Musiktitel springen</string>
   <string name="touchscreen_gesture_action_next_track">Zum nächsten Musiktitel springen</string>
+  <string name="touchscreen_gesture_action_volume_down">Medienlautstärke verringern</string>
+  <string name="touchscreen_gesture_action_volume_up">Medienlautstärke erhöhen</string>
+  <!-- Egg: Title for the easter egg activity -->
+  <!-- Berry Lite -->
+  <string name="style_title">Design</string>
+  <string name="style_summary">Systemfarben wählen</string>
+  <string name="style_global_title">Design</string>
+  <string name="style_global_entry_automatic">Automatisch (Hintergrundbild)</string>
+  <string name="style_global_entry_light">Hell</string>
+  <string name="style_global_entry_dark">Dunkel</string>
+  <string name="style_global_entry_time">Automatisch (Tageszeit)</string>
+  <string name="style_accent_title">Akzentfarbe</string>
+  <string name="style_accent_configuration_not_supported">Der aktuelle Akzent ist nicht mit dem gewählten Design kompatibel. Um fortzufahren, muss ein anderer Akzent gewählt werden, wollen Sie fortfahren?</string>
+  <string name="style_accent_configuration_positive">Fortfahren</string>
+  <string name="style_automagic_title">Automagisch</string>
+  <string name="style_automagic_description">Passt das Design an Ihr Hintergrundbild an</string>
+  <string name="style_automagic_dialog_content">Vorgeschlagenes Design: <b>%1$s</b> mit <b>%2$s</b> Akzent.\nWollen Sie es anwenden?</string>
+  <string name="style_automagic_dialog_positive">Anwenden</string>
+  <string name="style_accent_default_name">Standard</string>
+  <string name="style_permission_error">Speicherzugriffsberechtigung ist erforderlich, um Ihr Hintergrundbild zu analysieren. Bitte gewähren Sie diese, um die Funktion nutzen zu können</string>
 </resources>

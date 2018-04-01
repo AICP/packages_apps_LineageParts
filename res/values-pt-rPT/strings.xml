@@ -197,6 +197,7 @@
   <!-- Key backlight -->
   <string name="button_backlight_title">Luz de fundo</string>
   <string name="button_backlight_enabled">Iluminar os botões</string>
+  <string name="button_backlight_only_when_pressed_title">Iluminar botões apenas ao tocar</string>
   <string name="keyboard_backlight_enabled">Iluminar o teclado</string>
   <string name="button_backlight_seekbar_title">Brilho dos botões</string>
   <string name="keyboard_backlight_seekbar_title">Brilho do teclado</string>
@@ -383,7 +384,7 @@
   <string name="status_bar_quick_qs_pulldown_summary">O %1$s da barra de estado faz baixar o painel de definições rápidas</string>
   <string name="status_bar_quick_qs_pulldown_summary_left">canto esquerdo</string>
   <string name="status_bar_quick_qs_pulldown_summary_right">canto direito</string>
-  <string name="status_bar_quick_qs_pulldown_off">Desligado</string>
+  <string name="status_bar_quick_qs_pulldown_off">Desligada</string>
   <string name="status_bar_quick_qs_pulldown_left">Esquerda</string>
   <string name="status_bar_quick_qs_pulldown_right">Direita</string>
   <string name="status_bar_double_tap_to_sleep_title">Toque duplo para desligar ecrã</string>
@@ -556,4 +557,24 @@
   <string name="touchscreen_gesture_action_play_pause_music">Reproduzir/pausar a reprodução de música</string>
   <string name="touchscreen_gesture_action_previous_track">Retroceder para a faixa de música anterior</string>
   <string name="touchscreen_gesture_action_next_track">Avançar para a faixa de música seguinte</string>
+  <string name="touchscreen_gesture_action_volume_down">Diminuir o volume multimédia</string>
+  <string name="touchscreen_gesture_action_volume_up">Aumentar o volume multimédia</string>
+  <!-- Egg: Title for the easter egg activity -->
+  <!-- Berry Lite -->
+  <string name="style_title">Estilo</string>
+  <string name="style_summary">Escolher cores do sistema</string>
+  <string name="style_global_title">Estilo</string>
+  <string name="style_global_entry_automatic">Automático (baseado na imagem de fundo)</string>
+  <string name="style_global_entry_light">Claro</string>
+  <string name="style_global_entry_dark">Escuro</string>
+  <string name="style_global_entry_time">Automático (baseado na hora do dia)</string>
+  <string name="style_accent_title">Cor de destaque</string>
+  <string name="style_accent_configuration_not_supported">A cor de destaque atual não é compatível com o estilo selecionado. Para continuar terá de escolher outra cor de destaque. Deseja continuar?</string>
+  <string name="style_accent_configuration_positive">Continuar</string>
+  <string name="style_automagic_title">Automagic</string>
+  <string name="style_automagic_description">Fazer com que o estilo combine com a imagem de fundo</string>
+  <string name="style_automagic_dialog_content">Estilo sugerido: <b>%1$s</b> com <b>%2$s</b> como cor de destaque.\nPretende aplicá-lo?</string>
+  <string name="style_automagic_dialog_positive">Aplicar</string>
+  <string name="style_accent_default_name">Predefinição</string>
+  <string name="style_permission_error">É necessária a permissão de acesso ao armazenamento para analisar a sua imagem de fundo. Por favor, conceda a permissão para utilizar esta funcionalidade</string>
 </resources>
