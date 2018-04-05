@@ -75,9 +75,6 @@
   <string name="pulse_speed_normal">Normale</string>
   <string name="pulse_speed_slow">Lente</string>
   <string name="pulse_speed_very_slow">Très lente</string>
-  <string name="pulse_speed_normal">Normal</string>
-  <string name="pulse_speed_slow">Lent</string>
-  <string name="pulse_speed_very_slow">Très lent</string>
   <!-- Common light settings strings -->
   <string name="light_brightness_title">Niveau de luminosité</string>
   <string name="light_brightness_normal">Normal</string>
@@ -248,8 +245,6 @@
   <string name="torch_long_press_power_gesture_title">Pression longue pour la lampe de poche</string>
   <string name="torch_long_press_power_gesture_desc">Activer la lampe de poche par un appui long sur le bouton d\'alimentation lorsque l\'écran est éteint</string>
   <string name="torch_long_press_power_timeout_title">Désactiver automatiquement la lampe de torche</string>
-  <string name="torch_long_press_power_gesture_desc">Activer la lampe de poche par un appui long sur le bouton Marche/Arrêt lorsque l\'écran est éteint</string>
-  <string name="torch_long_press_power_timeout_title">Désactiver automatiquement la lampe de poche</string>
   <string name="torch_long_press_power_timeout_never">Jamais</string>
   <string name="torch_long_press_power_timeout_1min">1 minute</string>
   <string name="torch_long_press_power_timeout_2min">2 minutes</string>
