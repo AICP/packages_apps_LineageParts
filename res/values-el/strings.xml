@@ -227,7 +227,6 @@
   <string name="power_menu_bug_report_title">Αναφορά σφαλμάτων</string>
   <string name="power_menu_sound_title">Πάνελ έντασης</string>
   <string name="power_menu_bug_report_disabled">Η αναφορά σφαλμάτων είναι απενεργοποιημένη στις ρυθμίσεις για προγραμματιστές</string>
-  <string name="power_menu_lockdown_title">Κλείδωμα</string>
   <string name="volume_keys_control_ring_stream_title">Έλεγχος έντασης ήχου κλήσης</string>
   <string name="volume_keys_control_ring_stream_summary_on">Τα πλήκτρα έντασης θα ελέγχουν την ένταση ήχου κλήσης</string>
   <string name="volume_keys_control_ring_stream_summary_off">Τα πλήκτρα έντασης θα ελέγχουν την ένταση πολυμέσων</string>
