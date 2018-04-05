@@ -17,7 +17,8 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
     jsr305 \
-    org.lineageos.platform.internal
+    org.lineageos.platform.internal \
+    AicpGear-preference
 
 LOCAL_RESOURCE_DIR := \
     $(LOCAL_PATH)/res
