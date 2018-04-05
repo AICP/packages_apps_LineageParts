@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Otomatik parlaklık simgesini hızlı ayarlarda göster</string>
   <string name="status_bar_toggle_brightness">Parlaklık kontrolü</string>
   <string name="status_bar_toggle_brightness_summary">Durum çubuğu üzerinde kaydırarak parlaklığı ayarla</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Durum çubuğu simgeleri</string>
-  <string name="status_bar_icons_summary">Gösterilen durum çubuğu simgelerini kontrol et</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Korunan uygulamalar</string>
   <string name="protected_apps_manager_summary">Güvenli kilitlemenin arkasında hangi uygulamaların gizlendiğini yönetin</string>

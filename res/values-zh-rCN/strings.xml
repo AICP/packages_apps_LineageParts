@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">在亮度滑块附近显示自动调节亮度开关</string>
   <string name="status_bar_toggle_brightness">亮度控制</string>
   <string name="status_bar_toggle_brightness_summary">通过在状态栏上滑动调整亮度</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">状态栏图标</string>
-  <string name="status_bar_icons_summary">控制显示哪些状态栏图标</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">受保护的应用</string>
   <string name="protected_apps_manager_summary">管理安全锁隐藏的应用</string>

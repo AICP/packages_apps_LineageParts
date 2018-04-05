@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Mostrar interruptor cerca del deslizador, para el brillo automático</string>
   <string name="status_bar_toggle_brightness">Ajuste de brillo</string>
   <string name="status_bar_toggle_brightness_summary">Ajustar el brillo deslizando a través de la barra de estado</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Iconos de la barra de estado</string>
-  <string name="status_bar_icons_summary">Controlar qué iconos aparecen en la barra de estado</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Aplicaciones protegidas</string>
   <string name="protected_apps_manager_summary">Gestionar que aplicaciones se ocultarán detrás de un bloqueo seguro</string>

@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">הראה כפתור להפעלת בהירות אוטומטית ליד המחוון</string>
   <string name="status_bar_toggle_brightness">בקרת בהירות</string>
   <string name="status_bar_toggle_brightness_summary">שנה הבהירות על ידי הזזת האצבע על שורת המצב</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">סמלי שורת המצב</string>
-  <string name="status_bar_icons_summary">בחר את הסמלים שיוצגו בשורת המצב</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">יישומים מוגנים</string>
   <string name="protected_apps_manager_summary">נהל אילו יישומים מוסתרים בעזרת נעילה מאובטחת</string>

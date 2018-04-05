@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Покажи на превключвач за адаптивна яркост близо до плъзгача</string>
   <string name="status_bar_toggle_brightness">Контрол на яркостта</string>
   <string name="status_bar_toggle_brightness_summary">Настройване на яркостта чрез плъзгане в лентата на състоянието</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Икони на лентата</string>
-  <string name="status_bar_icons_summary">Изберете, кои икони да се показват в лентата на състоянието</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Защитени приложения</string>
   <string name="protected_apps_manager_summary">Изберете кои приложения да се зареждат след въвеждане на парола</string>

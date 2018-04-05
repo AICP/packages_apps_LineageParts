@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Umschalter für adaptive Helligkeit neben dem Schieberegler anzeigen</string>
   <string name="status_bar_toggle_brightness">Helligkeitssteuerung</string>
   <string name="status_bar_toggle_brightness_summary">Helligkeit durch Wischen über die Statusleiste anpassen</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Statusleistensymbole</string>
-  <string name="status_bar_icons_summary">Festlegen, welche Statusleistensymbole angezeigt werden</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Geschützte Apps</string>
   <string name="protected_apps_manager_summary">Verwalten Sie, welche Apps hinter einer sicheren Sperre verborgen sind.</string>

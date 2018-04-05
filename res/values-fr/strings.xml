@@ -440,9 +440,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Voir le bouton pour la luminosité adaptative près du curseur</string>
   <string name="status_bar_toggle_brightness">Contrôle de la luminosité</string>
   <string name="status_bar_toggle_brightness_summary">Régler la luminosité en faisant glisser le doigt sur la barre d\'état</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Icônes de la barre d\'état</string>
-  <string name="status_bar_icons_summary">Choisir les icônes affichées dans la barre d\'état</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Applications protégées</string>
   <string name="protected_apps_manager_summary">Gérer les applications protégées par un verrou de sécurité</string>

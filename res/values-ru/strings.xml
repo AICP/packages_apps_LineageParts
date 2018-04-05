@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Переключатель адаптивной регулировки яркости рядом с ползунком</string>
   <string name="status_bar_toggle_brightness">Управление яркостью</string>
   <string name="status_bar_toggle_brightness_summary">Регулировать яркость экрана движением пальца по строке состояния</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Значки в строке состояния</string>
-  <string name="status_bar_icons_summary">Настройка видимости значков</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Заблокированные приложения</string>
   <string name="protected_apps_manager_summary">Управление приложениями, для запуска которых требуется ввод пароля</string>

@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Arată comutatorul pentru luminozitate adaptivă lângă glisor</string>
   <string name="status_bar_toggle_brightness">Control luminozitate</string>
   <string name="status_bar_toggle_brightness_summary">Reglați luminozitatea prin alunecarea peste bara de stare</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Pictograme bară de stare</string>
-  <string name="status_bar_icons_summary">Controlați care pictograme din bara de stare sunt afișate</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Aplicații protejate</string>
   <string name="protected_apps_manager_summary">Gestionați care aplicații sunt ascunse după o blocare sigură</string>

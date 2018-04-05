@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Exibir controle para brilho da tela adaptável perto do controle deslizante</string>
   <string name="status_bar_toggle_brightness">Controle de brilho</string>
   <string name="status_bar_toggle_brightness_summary">Permite ajustar o brilho deslizando através da barra de status</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Ícones da barra de status</string>
-  <string name="status_bar_icons_summary">Controle quais ícones da barra de status são mostrados</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Apps protegidos</string>
   <string name="protected_apps_manager_summary">Gerencie quais aplicativos ficam escondidos atrás da trava de segurança</string>

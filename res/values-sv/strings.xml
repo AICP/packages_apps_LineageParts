@@ -210,8 +210,6 @@
   <!-- Status bar - Battery percentage -->
   <string name="status_bar_battery_percentage_default">Dold</string>
   <!-- Status bar - Brightness -->
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Statusfältsikoner</string>
   <!-- Protected apps -->
   <!-- Contributors cloud activity -->
   <!-- Anonymous Statistics #Lineage -->

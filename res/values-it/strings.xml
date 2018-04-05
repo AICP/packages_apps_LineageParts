@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Mostra il toggle per la luminosità adattiva vicino allo slider</string>
   <string name="status_bar_toggle_brightness">Controllo luminosità</string>
   <string name="status_bar_toggle_brightness_summary">Modifica la luminosità strisciando sulla barra di stato</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Icone barra di stato</string>
-  <string name="status_bar_icons_summary">Scegli quali icone verranno visualizzate nella barra di stato</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">App protette</string>
   <string name="protected_apps_manager_summary">Gestisci le app protette da un codice di sicurezza</string>

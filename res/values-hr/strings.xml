@@ -393,9 +393,6 @@
   <!-- Status bar - Brightness -->
   <string name="status_bar_toggle_brightness">Kontrola svjetline</string>
   <string name="status_bar_toggle_brightness_summary">Prilagodite svjetlinu klizanjem po statusnoj traci</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Ikone trake statusa</string>
-  <string name="status_bar_icons_summary">Uredi prikazane ikone trake statusa</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Zaštićene aplikacije</string>
   <string name="protected_apps_manager_summary">Upravljanje aplikacijama koje su skrivene iza sigurnog zaključavanja</string>

@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Näytä automaattisen kirkkauden valinta liukusäätimen vieressä</string>
   <string name="status_bar_toggle_brightness">Kirkkauden säätö</string>
   <string name="status_bar_toggle_brightness_summary">Säädä kirkkautta liu\'ttamalla tilapalkkia pitkin</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Tilapalkin kuvakkeet</string>
-  <string name="status_bar_icons_summary">Määritä mitkä tilapalkin kuvakkeet näytetään</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Suojatut sovellukset</string>
   <string name="protected_apps_manager_summary">Hallitse mitkä sovellukset ovat turvallisen lukituksen takana</string>

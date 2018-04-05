@@ -427,9 +427,6 @@
   <string name="status_bar_brightness_slider_auto_summary">Mostra el botó de lluminositat automàtica al costat de la barra</string>
   <string name="status_bar_toggle_brightness">Control de lluminositat</string>
   <string name="status_bar_toggle_brightness_summary">Ajusta la lluminositat lliscant a través de la barra d\'estat</string>
-  <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Icones de la barra d\'estat</string>
-  <string name="status_bar_icons_summary">Controla quines icones de la barra d\'estat es mostren</string>
   <!-- Protected apps -->
   <string name="protected_apps_manager_title">Aplicacions protegides</string>
   <string name="protected_apps_manager_summary">Gestiona quines aplicacions s\'amaguen darrere el bloqueig segur</string>
