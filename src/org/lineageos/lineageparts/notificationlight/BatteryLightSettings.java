@@ -67,6 +67,8 @@ public class BatteryLightSettings extends SettingsPreferenceFragment implements
     private int mDefaultMediumColor;
     private int mDefaultFullColor;
     private int mBatteryBrightness;
+    // liblights supports brightness control
+    private boolean mHALAdjustableBrightness;
     private boolean mMultiColorLed;
 
     private static final int MENU_RESET = Menu.FIRST;
@@ -81,6 +83,8 @@ public class BatteryLightSettings extends SettingsPreferenceFragment implements
         // Collect battery led capabilities.
         mMultiColorLed =
                 LightsCapabilities.supports(context, LightsCapabilities.LIGHTS_RGB_BATTERY_LED);
+        mHALAdjustableBrightness = LightsCapabilities.supports(
+                context, LightsCapabilities.LIGHTS_ADJUSTABLE_NOTIFICATION_LED_BRIGHTNESS);
         final boolean pulsatingLed =
                 LightsCapabilities.supports(context, LightsCapabilities.LIGHTS_PULSATING_LED);
         final boolean segmentedBatteryLed =
@@ -156,7 +160,7 @@ public class BatteryLightSettings extends SettingsPreferenceFragment implements
         }
 
         // Remove battery LED brightness controls if we can't support them.
-        if (segmentedBatteryLed || !mMultiColorLed) {
+        if (segmentedBatteryLed || (!mMultiColorLed && !mHALAdjustableBrightness)) {
             prefSet.removePreference(prefSet.findPreference(BRIGHTNESS_SECTION));
         }
 
