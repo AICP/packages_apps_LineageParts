@@ -76,6 +76,8 @@
   <string name="pulse_speed_slow">Langzaam</string>
   <string name="pulse_speed_very_slow">Heel langzaam</string>
   <!-- Common light settings strings -->
+  <string name="light_brightness_title">Helderheidsniveau</string>
+  <string name="light_brightness_normal">Normaal</string>
   <string name="light_brightness_zen">Niet storen</string>
   <!-- Battery light settings -->
   <string name="battery_light_title">Acculed</string>
@@ -546,6 +548,11 @@
   <string name="touchscreen_gesture_letter_w_title">Teken een \"W\"</string>
   <string name="touchscreen_gesture_letter_z_title">Teken een \"Z\"</string>
   <!-- Gesture: Stylus gestures -->
+  <string name="touchscreen_gesture_swipe_up_stylus_title">Omhoog vegen met de stylus</string>
+  <string name="touchscreen_gesture_swipe_down_stylus_title">Omlaag vegen met de stylus</string>
+  <string name="touchscreen_gesture_swipe_left_stylus_title">Naar links vegen met de stylus</string>
+  <string name="touchscreen_gesture_swipe_right_stylus_title">Naar rechts vegen met de stylus</string>
+  <string name="touchscreen_gesture_long_press_stylus_title">Lang indrukken met de stylus</string>
   <string name="touchscreen_gesture_action_dialog_title">Actie na gebaar</string>
   <string name="touchscreen_gesture_action_do_nothing">Niets doen</string>
   <string name="touchscreen_gesture_action_flashlight">Zaklamp aan/uit</string>
@@ -559,7 +566,16 @@
   <string name="touchscreen_gesture_action_next_track">Spring naar volgende nummer</string>
   <!-- Egg: Title for the easter egg activity -->
   <!-- Berry Lite -->
+  <string name="style_title">Stijl</string>
+  <string name="style_global_title">Stijl</string>
+  <string name="style_global_entry_automatic">Automatisch (achtergrond)</string>
   <string name="style_global_entry_light">Licht</string>
   <string name="style_global_entry_dark">Donker</string>
   <string name="style_global_entry_time">Automatisch (tijdstip van de dag)</string>
+  <string name="style_accent_title">Accentkleur</string>
+  <string name="style_accent_configuration_not_supported">Het huidige accent is niet compatibel met het gekozen ontwerp. Om door te gaan, moet een ander accent worden gekozen. Wil je doorgaan?</string>
+  <string name="style_accent_configuration_positive">Doorgaan</string>
+  <string name="style_automagic_title">Automagic</string>
+  <string name="style_automagic_dialog_positive">Toepassen</string>
+  <string name="style_accent_default_name">Standaard</string>
 </resources>
