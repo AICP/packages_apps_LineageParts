@@ -31,6 +31,11 @@
         android:defaultValue="false" />
 
     <CheckBoxPreference
+        android:key="onthego"
+        android:title="@string/power_menu_onthego_title"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
         android:key="airplane"
         android:title="@string/power_menu_airplane_title"
         android:defaultValue="false" />
