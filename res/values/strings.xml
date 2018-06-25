@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 	Copyright (C) 2015 The CyanogenMod Project
-	          (C) 2017 The LineageOS Project
+	Copyright (C) 2017-2018 The LineageOS Project
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -253,8 +253,6 @@
     <string name="power_menu_title">Power menu</string>
     <string name="power_menu_screenshot_title">Screenshot</string>
     <string name="power_menu_screenshot_summary">Long-press for partial screenshot</string>
-    <string name="power_menu_screenrecord_title">Screenrecord</string>
-    <string name="power_menu_onthego_title">On-The-Go</string>
     <string name="power_menu_airplane_title">Airplane mode</string>
     <string name="power_menu_users_title">User switcher</string>
     <string name="power_menu_bug_report_title">Bug report</string>
@@ -694,7 +692,6 @@
     <string name="trust_feature_security_patches_value_new">up to date</string>
     <string name="trust_feature_security_patches_value_medium">some months old</string>
     <string name="trust_feature_security_patches_value_old">out of date</string>
-    <string name="trust_feature_security_patches_explain">Security patches are released monthly by Google and SoC vendors to address flaws in the system which could be exploited by malicious apps to bypass security restrictions and can cause temporary or permanent damage to your device.\nWhile platform patches are updated globally every month, vendor patches are updated from the OEM from time to time.\nTo keep your device safe make sure your AICP build is always up-to-date.</string>
     <string name="trust_feature_encryption">Encryption</string>
     <string name="trust_feature_encryption_value_enabled">Enabled</string>
     <string name="trust_feature_encryption_value_nolock">Needs a secure lock screen</string>
