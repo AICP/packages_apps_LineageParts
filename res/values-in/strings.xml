@@ -603,6 +603,7 @@
   <string name="trust_feature_encryption_value_nolock">Memerlukan kunci layar aman</string>
   <string name="trust_category_tools">Privasi</string>
   <string name="trust_notification_alerts_title">Peringatan keamanan</string>
+  <string name="trust_warnings_selinux">Status SELinux</string>
   <string name="trust_onboarding_learn_more">Pelajari selengkapnya</string>
   <string name="trust_onboarding_done">Mengerti</string>
   <!-- Sms limit -->

@@ -610,6 +610,10 @@
   <string name="trust_feature_encryption_value_nolock">נעילת מסך מאובטחת נדרשת</string>
   <string name="trust_feature_encryption_value_disabled">מושבתת</string>
   <string name="trust_category_tools">פרטיות</string>
+  <string name="trust_notification_alerts_title">התראות אבטחה</string>
+  <string name="trust_warnings_alerts_intro">באפשרותך לבחור מקרי האבטחה שיקפיצו התראות. למען בטיחותך, מומלץ להפעיל את כל המקרים</string>
+  <string name="trust_warnings_selinux">מצב SELinux</string>
+  <string name="trust_warnings_keys">חתימת בניה</string>
   <string name="trust_onboarding_learn_more">מידע נוסף</string>
   <string name="trust_onboarding_done">הבנתי</string>
   <!-- Sms limit -->

@@ -596,6 +596,7 @@
   <string name="trust_feature_root">Acesso de superusuário</string>
   <string name="trust_feature_root_value_disabled">Desligado</string>
   <string name="trust_feature_root_value_apps">Aplicativos e ADB</string>
+  <string name="trust_feature_security_patches">Atualizações de segurança do Android</string>
   <string name="trust_feature_security_patches_value_base">Plataforma: %1$s\nFabricante: %2$s</string>
   <string name="trust_feature_security_patches_value_new">atualizado</string>
   <string name="trust_feature_security_patches_value_old">desatualizado</string>
@@ -604,8 +605,10 @@
   <string name="trust_feature_encryption_value_disabled">Desligada</string>
   <string name="trust_category_tools">Privacidade</string>
   <string name="trust_notification_alerts_title">Alertas de segurança</string>
+  <string name="trust_onboarding_title">Diga olá a Confiança</string>
   <string name="trust_onboarding_learn_more">Saiba mais</string>
   <string name="trust_onboarding_done">Entendi</string>
   <!-- Sms limit -->
   <string name="sms_security_check_limit_title">Limite de mensagens SMS</string>
+  <string name="sms_security_check_limit_always_confirm">Confirmar sempre</string>
 </resources>
