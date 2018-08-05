@@ -615,6 +615,9 @@
   <string name="trust_feature_encryption_explain">Szyfrowanie twojego urządzenia zabezpiecza znajdujące się na nim dane gdy twój telefon jest wyłączony, lub znajduje się w trybie recovery. Jest to szczególnie ważne kiedy twoje urządzenie zostanie skradzione, uniemożliwia to dostęp do wiadomości, kontaktów i innych prywatnych danych bez podania hasła.\nAby szyfrowanie było bardziej efektywne potrzebne jest ustawienie zabezpieczenia ekranu blokady.</string>
   <string name="trust_category_tools">Prywatność</string>
   <string name="trust_notification_alerts_title">Alerty zabezpieczeń</string>
+  <string name="trust_warnings_alerts_intro">Możesz wybrać o których problemach z bezpieczeństwem będziesz powiadamiany. Dla twojego bezpieczeństwa, zalecane jest włączenie wszystkich powiadomień</string>
+  <string name="trust_warnings_selinux">Stan SELinux</string>
+  <string name="trust_warnings_keys">Sygnatura kompilacji</string>
   <string name="trust_onboarding_title">Przywitaj się z Trust</string>
   <string name="trust_onboarding_description">Trust pomaga utrzymać twoje urządzenie bezpiecznym oraz chronić twoją prywatność.\nIkona Trust wyświetli się by pomóc ci przez sprawdzanie bezpieczeństwa zawartości</string>
   <string name="trust_onboarding_learn_more">Dowiedz się więcej</string>
