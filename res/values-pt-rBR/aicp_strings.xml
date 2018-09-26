@@ -17,9 +17,12 @@
 -->
 <resources>
   <!-- Power menu -->
+  <string name="power_menu_screenrecord_title">Gravação de tela</string>
+  <string name="power_menu_onthego_title">Em movimento</string>
   <!-- Berry Lite -->
   <string name="style_global_entry_black">Preto</string>
   <!-- Trust interface -->
+  <string name="trust_feature_security_patches_explain">Os patches de segurança são lançados mensalmente pelos fornecedores do Google e do SoC para corrigir falhas no sistema que podem ser exploradas por aplicativos mal-intencionados para contornar as restrições de segurança e causar danos temporários ou permanentes ao dispositivo.\nPara atualizações mensais da plataforma, correções do fornecedor são atualizados do OEM periodicamente.\nPara manter seu dispositivo seguro, certifique-se de que sua versão da AICP esteja sempre atualizada.</string>
   <!-- Battery light - blend colors -->
   <string name="battery_light_blend_color_title">Misturar cores</string>
   <string name="battery_light_blend_color_summary">Misturar cores cheias/vazias correspondente à percentagem da bateria</string>

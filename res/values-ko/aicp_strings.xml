@@ -17,7 +17,16 @@
 -->
 <resources>
   <!-- Power menu -->
+  <string name="power_menu_screenrecord_title">화면 녹화</string>
+  <string name="power_menu_onthego_title">On-The-Go</string>
   <!-- Berry Lite -->
+  <string name="style_global_entry_black">검은색</string>
   <!-- Trust interface -->
+  <string name="trust_feature_security_patches_explain">보안 패치는 Google 및 SoC 벤더에 의해 매월 발표되어 악성 앱이 보안 제한을 우회하여 기기를 일시적으로 또는 영구적으로 손상시킬 수있는 결함을 해결합니다.\n매달 전세계 플랫폼 패치가 업데이트되는 반면 공급 업체 패치 는 OEM에서 수시로 업데이트됩니다.\n장치를 안전하게 유지하려면 AICP 빌드가 항상 최신 상태인지 확인하십시오.</string>
   <!-- Battery light - blend colors -->
+  <string name="battery_light_blend_color_title">색상 혼합</string>
+  <string name="battery_light_blend_color_summary">배터리 퍼센트를 구성하는 최대/최소 색상 혼합</string>
+  <string name="battery_light_blend_color_reverse_title">색상 방향 반전</string>
+  <string name="battery_light_blend_color_reverse_summary_off">최대 &#8594; 최소: 빨강 &#8592; 녹색 &#8592; 파랑 &#8592; 빨강</string>
+  <string name="battery_light_blend_color_reverse_summary_on">최대 &#8594; 최소: 빨강 &#8594; 녹색 &#8594; 파랑 &#8594; 빨강</string>
 </resources>

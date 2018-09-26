@@ -17,6 +17,8 @@
 -->
 <resources>
   <!-- Power menu -->
+  <string name="power_menu_screenrecord_title">Registra schermo</string>
+  <string name="power_menu_onthego_title">On-The-Go</string>
   <!-- Berry Lite -->
   <string name="style_global_entry_black">Nero</string>
   <!-- Trust interface -->

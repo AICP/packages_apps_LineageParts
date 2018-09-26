@@ -17,7 +17,16 @@
 -->
 <resources>
   <!-- Power menu -->
+  <string name="power_menu_screenrecord_title">Nagrywanie ekranu</string>
+  <string name="power_menu_onthego_title">W ruchu</string>
   <!-- Berry Lite -->
+  <string name="style_global_entry_black">Czarna</string>
   <!-- Trust interface -->
+  <string name="trust_feature_security_patches_explain">Aktualizacje zabezpieczeń są wydawane co miesiąc przez Google oraz dostawców SoC w celu łatania luk w systemie, które mogą zostać wykorzystane przez złośliwe oprogramowanie w celu obejścia zabezpieczeń oraz wyrządzenia chwilowych lub trwałych szkód w twoim urządzeniu.\n Gdy łatki platformy wydawane są globalnie co miesiąc, łatki dostawców są aktualizowane od OEM, co jakiś czas.\nAby utrzymać twoje urządzenie bezpiecznym, upewnij się że twoja wersja AICP jest zawsze aktualna.</string>
   <!-- Battery light - blend colors -->
+  <string name="battery_light_blend_color_title">Mieszanie kolorów</string>
+  <string name="battery_light_blend_color_summary">Mieszaj pełne/puste kolory odpowiadające procentom baterii</string>
+  <string name="battery_light_blend_color_reverse_title">Odwróć kierunek kolorów</string>
+  <string name="battery_light_blend_color_reverse_summary_off">Pełny &#8594; pusty: czerwony &#8592; zielony &#8592; niebieski &#8592; czerwony</string>
+  <string name="battery_light_blend_color_reverse_summary_on">Pełny &#8594; pusty: czerwony &#8594; zielony &#8594; niebieski &#8594; czerwony</string>
 </resources>
