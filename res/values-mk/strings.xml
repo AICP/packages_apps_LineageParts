@@ -560,5 +560,8 @@
   <string name="touchscreen_gesture_action_volume_up">Зголеми го гласот за музика</string>
   <!-- Berry Lite -->
   <!-- Trust interface -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
   <!-- Sms limit -->
 </resources>

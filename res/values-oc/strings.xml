@@ -60,7 +60,6 @@
   <!-- Status bar - Battery -->
   <!-- Status bar - Battery percentage -->
   <!-- Status bar - Brightness -->
-  <!-- Status bar - Network Traffic -->
   <!-- Protected apps -->
   <!-- Contributors cloud activity -->
   <!-- Anonymous Statistics #Lineage -->
@@ -74,8 +73,10 @@
   <!-- Sounds: Charging sounds -->
   <!-- Gestures: Touchscreen gestures -->
   <!-- Gesture: Stylus gestures -->
-  <!-- Egg: Title for the easter egg activity -->
   <!-- Berry Lite -->
   <!-- Trust interface -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
   <!-- Sms limit -->
 </resources>

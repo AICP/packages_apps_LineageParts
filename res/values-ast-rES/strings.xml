@@ -431,5 +431,8 @@
   <string name="touchscreen_gesture_action_next_track">Saltar a la pista musical de darréu</string>
   <!-- Berry Lite -->
   <!-- Trust interface -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
   <!-- Sms limit -->
 </resources>

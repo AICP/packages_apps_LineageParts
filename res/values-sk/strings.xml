@@ -539,6 +539,7 @@
   <string name="touchscreen_gestures_haptic_feedback_summary">Vibrovať ak je detekované gesto na dotykovej obrazovke</string>
   <string name="touchscreen_gesture_two_finger_down_swipe_title">Potiahnite nadol dvomi prstami</string>
   <string name="touchscreen_gesture_one_finger_up_swipe_title">Potiahnutie jedným prstom nahor</string>
+  <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Potiahnite prstom nahor od tlačidla Domov</string>
   <string name="touchscreen_gesture_one_finger_down_swipe_title">Potiahnutie jedným prstom nadol</string>
   <string name="touchscreen_gesture_one_finger_left_swipe_title">Potiahnutie jedným prstom doľava</string>
   <string name="touchscreen_gesture_one_finger_right_swipe_title">Potiahnutie jedným prstom doprava</string>
@@ -592,7 +593,6 @@
   <string name="style_accent_default_name">Predvolený</string>
   <string name="style_permission_error">Na analýzu vašej tapety je potrebné povolenie na prístup k úložisku. Udeľte prosím povolenie na používanie tejto funkcie</string>
   <!-- Trust interface -->
-  <string name="trust_header">Trust pomáha udržiavať vaše zariadenie v bezpečí a chráni vaše súkromie.\nZobrazí sa ikona Trust, ktorá vám pomôže kontrolovať bezpečnosť obsahu.</string>
   <string name="trust_category_features">Stav</string>
   <string name="trust_feature_selinux">SELinux</string>
   <string name="trust_feature_selinux_value_enforcing">Vynútený</string>
@@ -605,8 +605,11 @@
   <string name="trust_feature_root_explain">Root prístup umožňuje vynechať bezpečnostné obmedzenia pomocou aplikácií a služieb, ktoré si vyberiete, čo im umožní vykonať zmeny v systéme, ktoré potencionálne môžu spôsobiť poškodenie vášho zariadenia alebo operačného systému.</string>
   <string name="trust_feature_security_patches">Bezpečnostné záplaty Android</string>
   <string name="trust_feature_security_patches_value_base">Platforma: %1$s\nDodávateľ: %2$s</string>
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
   <string name="trust_feature_security_patches_value_new">aktuálne</string>
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
   <string name="trust_feature_security_patches_value_medium">staré niekoľkých mesiacov</string>
+  <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
   <string name="trust_feature_security_patches_value_old">zastaralé</string>
   <string name="trust_feature_encryption">Šifrovanie</string>
   <string name="trust_feature_encryption_value_enabled">Zapnuté</string>
@@ -619,7 +622,7 @@
   <string name="trust_warnings_selinux">Stav SELinux</string>
   <string name="trust_warnings_keys">Podpis zostavenia</string>
   <string name="trust_onboarding_title">Zoznámte sa s Trust</string>
-  <string name="trust_onboarding_description">Trust pomáha udržiavať vaše zariadenie v bezpečí a chráni vaše súkromie.\nZobrazí sa ikona Trust, ktorá vám pomôže kontrolovať bezpečnosť obsahu</string>
+  <string name="trust_onboarding_description">Trust pomáha udržiavať vaše zariadenie v bezpečí a chráni vaše súkromie.\nZobrazí sa ikona Trust, ktorá vám pomôže kontrolovať bezpečnosť obsahu.</string>
   <string name="trust_onboarding_learn_more">Zistiť viac</string>
   <string name="trust_onboarding_done">Chápem</string>
   <!-- Sms limit -->
