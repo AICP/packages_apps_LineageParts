@@ -404,8 +404,6 @@
     <string name="status_bar_system_icons_summary">Настройка видимости значков в строке состояния</string>
     <!-- Status bar - Clock -->
     <string name="status_bar_clock_title">Часы</string>
-    <string name="status_bar_clock_show_seconds_title">Показывать секунды</string>
-    <string name="status_bar_clock_show_seconds_summary">Показывать часы, минуты и секунды</string>
     <string name="status_bar_clock_position_title">Часы</string>
     <string name="status_bar_clock_position_right">Справа</string>
     <string name="status_bar_clock_position_left">Слева</string>

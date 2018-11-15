@@ -404,8 +404,6 @@
     <string name="status_bar_system_icons_summary">Määritä mitkä tilapalkin kuvakkeet näytetään</string>
     <!-- Status bar - Clock -->
     <string name="status_bar_clock_title">Kello</string>
-    <string name="status_bar_clock_show_seconds_title">Näytä sekunnit</string>
-    <string name="status_bar_clock_show_seconds_summary">Näytä tunnit, minuutit ja sekunnit</string>
     <string name="status_bar_clock_position_title">Kellon sijainti</string>
     <string name="status_bar_clock_position_right">Oikea</string>
     <string name="status_bar_clock_position_left">Vasen</string>
