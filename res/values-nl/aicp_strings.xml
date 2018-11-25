@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Schermopname</string>
-  <string name="power_menu_onthego_title">On-The-Go</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Zwart</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Maandelijks worden beveiligingspatches vrijgegeven door Google en SoC-leveranciers om kwetsbaarheden in het systeem op te lossen die schadelijke apps in staat kunnen stellen om beveiligingsbeperkingen te omzeilen, en daarmee tijdelijke of permanente schade aan uw apparaat kunnen toebrengen.\nTerwijl platformpatches elke maand wereldwijd worden bijgewerkt, worden leverancierspatches bijgewerkt door de fabrikant van tijd tot tijd.\nOm uw apparaat veilig te houden, moet u ervoor zorgen dat uw AICP build altijd up-to-date is.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Kleuren mengen</string>
-  <string name="battery_light_blend_color_summary">Meng kleuren voor vol/leeg aan de hand van batterij percentage</string>
-  <string name="battery_light_blend_color_reverse_title">Kleurrichting omkeren</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Vol &#8594; leeg: rood &#8592; groen &#8592; blauw &#8592; rood</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Vol &#8594; leeg: rood &#8594; groen &#8594; blauw &#8594; rood</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Schermopname</string>
+    <string name="power_menu_onthego_title">On-The-Go</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Zwart</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Maandelijks worden beveiligingspatches vrijgegeven door Google en SoC-leveranciers om kwetsbaarheden in het systeem op te lossen die schadelijke apps in staat kunnen stellen om beveiligingsbeperkingen te omzeilen, en daarmee tijdelijke of permanente schade aan uw apparaat kunnen toebrengen.\nTerwijl platformpatches elke maand wereldwijd worden bijgewerkt, worden leverancierspatches bijgewerkt door de fabrikant van tijd tot tijd.\nOm uw apparaat veilig te houden, moet u ervoor zorgen dat uw AICP build altijd up-to-date is.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Kleuren mengen</string>
+    <string name="battery_light_blend_color_summary">Meng kleuren voor vol/leeg aan de hand van batterij percentage</string>
+    <string name="battery_light_blend_color_reverse_title">Kleurrichting omkeren</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Vol &#8594; leeg: rood &#8592; groen &#8592; blauw &#8592; rood</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Vol &#8594; leeg: rood &#8594; groen &#8594; blauw &#8594; rood</string>
 </resources>

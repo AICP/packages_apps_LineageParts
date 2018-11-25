@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Képernyővideó</string>
-  <string name="power_menu_onthego_title">Menet közben mód</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Fekete</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Az Androidos biztonsági hibajavító csomagok havonta jelennek meg a Google és a SoC gyártók jóvoltából, a rendszerben fellépő olyan hibák kezelésére, amelyeket a rosszindulatú alkalmazások kihasználhatnak a biztonsági korlátozások megkerülésére, és ideiglenesen vagy tartósan károsíthatják a készüléket.\nMíg a platformjavítások havonta frissülnek globálisan, a gyártói javításokat csak időnként frissítik az OEM-eken keresztül.\nA készülékbiztonság megőrzéséhez győződjön meg róla, hogy az Ön AICP kiadása mindig naprakész-e.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Színek kombinálása</string>
-  <string name="battery_light_blend_color_summary">Az akkumulátor töltöttségének megfelelően kombinálja az üres/teli színeket</string>
-  <string name="battery_light_blend_color_reverse_title">Színek irányának megfordítása</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Tele &#8594; üres: piros &#8592; zöld &#8592; kék &#8592; piros</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Tele &#8594; üres: piros &#8594; zöld &#8594; kék &#8594; piros</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Képernyővideó</string>
+    <string name="power_menu_onthego_title">Menet közben mód</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Fekete</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Az Androidos biztonsági hibajavító csomagok havonta jelennek meg a Google és a SoC gyártók jóvoltából, a rendszerben fellépő olyan hibák kezelésére, amelyeket a rosszindulatú alkalmazások kihasználhatnak a biztonsági korlátozások megkerülésére, és ideiglenesen vagy tartósan károsíthatják a készüléket.\nMíg a platformjavítások havonta frissülnek globálisan, a gyártói javításokat csak időnként frissítik az OEM-eken keresztül.\nA készülékbiztonság megőrzéséhez győződjön meg róla, hogy az Ön AICP kiadása mindig naprakész-e.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Színek kombinálása</string>
+    <string name="battery_light_blend_color_summary">Az akkumulátor töltöttségének megfelelően kombinálja az üres/teli színeket</string>
+    <string name="battery_light_blend_color_reverse_title">Színek irányának megfordítása</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Tele &#8594; üres: piros &#8592; zöld &#8592; kék &#8592; piros</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Tele &#8594; üres: piros &#8594; zöld &#8594; kék &#8594; piros</string>
 </resources>

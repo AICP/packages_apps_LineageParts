@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">螢幕錄製</string>
-  <string name="power_menu_onthego_title">On-The-Go</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">黑</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">安全性修補由 Google 和 SoC 廠商每月發佈，用以修復可能會被惡意應用程式利用、繞過安全限制對您的裝置造成暫時或永久損壞的缺陷。\n平台修補每個月都會統一更新，但廠商修補只能每次從 OEM 取得。\n要保證您的裝置安全，請使用最新的 AICP 版本。</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">混合顏色</string>
-  <string name="battery_light_blend_color_summary">根據電量百分比混合滿/空顏色</string>
-  <string name="battery_light_blend_color_reverse_title">反轉顏色方向</string>
-  <string name="battery_light_blend_color_reverse_summary_off">滿 &#8594; 空：紅 &#8592; 綠 &#8592; 藍 &#8592; 紅</string>
-  <string name="battery_light_blend_color_reverse_summary_on">滿 &#8594; 空：紅 &#8594; 綠 &#8594; 藍 &#8594; 紅</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">螢幕錄製</string>
+    <string name="power_menu_onthego_title">On-The-Go</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">黑</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">安全性修補由 Google 和 SoC 廠商每月發佈，用以修復可能會被惡意應用程式利用、繞過安全限制對您的裝置造成暫時或永久損壞的缺陷。\n平台修補每個月都會統一更新，但廠商修補只能每次從 OEM 取得。\n要保證您的裝置安全，請使用最新的 AICP 版本。</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">混合顏色</string>
+    <string name="battery_light_blend_color_summary">根據電量百分比混合滿/空顏色</string>
+    <string name="battery_light_blend_color_reverse_title">反轉顏色方向</string>
+    <string name="battery_light_blend_color_reverse_summary_off">滿 &#8594; 空：紅 &#8592; 綠 &#8592; 藍 &#8592; 紅</string>
+    <string name="battery_light_blend_color_reverse_summary_on">滿 &#8594; 空：紅 &#8594; 綠 &#8594; 藍 &#8594; 紅</string>
 </resources>

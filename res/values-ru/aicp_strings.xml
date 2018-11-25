@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Запись экрана</string>
-  <string name="power_menu_onthego_title">Режим \"На ходу\"</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Чёрный</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Патчи безопасности выпускаются ежемесячно компанией Google и поставщиками SoC для устранения недостатков в системе, которые могут быть использованы вредоносными приложениями для обхода ограничений безопасности и могут нанести временный или постоянный вред вашему устройству.\nВ то время как патчи платформы выходят глобально каждый месяц, патчи от производителей устройств выходят лишь время от времени. \nДля того чтобы ваше устройство было в безопасности, всегда используйте актуальную сборку AICP.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Смешать цвета</string>
-  <string name="battery_light_blend_color_summary">Смешать полные/пустые цвета, соответствующие проценту заряда батареи</string>
-  <string name="battery_light_blend_color_reverse_title">Обратное направление цвета</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Полный &#8594; пустой: красный &#8592; зелёный &#8592; синий &#8592; красный</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Полный &#8594; пустой: красный &#8594; зелёный &#8594; синий &#8594; красный</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Запись экрана</string>
+    <string name="power_menu_onthego_title">Режим \"На ходу\"</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Чёрный</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Патчи безопасности выпускаются ежемесячно компанией Google и поставщиками SoC для устранения недостатков в системе, которые могут быть использованы вредоносными приложениями для обхода ограничений безопасности и могут нанести временный или постоянный вред вашему устройству.\nВ то время как патчи платформы выходят глобально каждый месяц, патчи от производителей устройств выходят лишь время от времени. \nДля того чтобы ваше устройство было в безопасности, всегда используйте актуальную сборку AICP.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Смешать цвета</string>
+    <string name="battery_light_blend_color_summary">Смешать полные/пустые цвета, соответствующие проценту заряда батареи</string>
+    <string name="battery_light_blend_color_reverse_title">Обратное направление цвета</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Полный &#8594; пустой: красный &#8592; зелёный &#8592; синий &#8592; красный</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Полный &#8594; пустой: красный &#8594; зелёный &#8594; синий &#8594; красный</string>
 </resources>

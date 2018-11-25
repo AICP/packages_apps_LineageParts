@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Grabar pantalla</string>
-  <string name="power_menu_onthego_title">Modo en marcha</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Negro</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Google y los proveedores de SoC publican mensualmente parches de seguridad para solucionar los defectos del sistema que podrían ser explotados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños temporales o permanentes en su dispositivo.\nSi bien los parches de la plataforma se actualizan globalmente todos los meses, los parches de los proveedores se actualizan de vez en cuando.\nPara mantener su dispositivo seguro, asegúrese de que su compilación AICP esté siempre actualizado.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Mezclar colores</string>
-  <string name="battery_light_blend_color_summary">Mezcla los colores lleno/vacío en función del porcentaje de batería</string>
-  <string name="battery_light_blend_color_reverse_title">Invertir la dirección del color</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Lleno &#8594; vacío: rojo &#8592; verde &#8592; azul &#8592; rojo</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Lleno &#8594; vacío: rojo &#8594; verde &#8594; azul &#8594; rojo</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Grabar pantalla</string>
+    <string name="power_menu_onthego_title">Modo en marcha</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Negro</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Google y los proveedores de SoC publican mensualmente parches de seguridad para solucionar los defectos del sistema que podrían ser explotados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños temporales o permanentes en su dispositivo.\nSi bien los parches de la plataforma se actualizan globalmente todos los meses, los parches de los proveedores se actualizan de vez en cuando.\nPara mantener su dispositivo seguro, asegúrese de que su compilación AICP esté siempre actualizado.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Mezclar colores</string>
+    <string name="battery_light_blend_color_summary">Mezcla los colores lleno/vacío en función del porcentaje de batería</string>
+    <string name="battery_light_blend_color_reverse_title">Invertir la dirección del color</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Lleno &#8594; vacío: rojo &#8592; verde &#8592; azul &#8592; rojo</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Lleno &#8594; vacío: rojo &#8594; verde &#8594; azul &#8594; rojo</string>
 </resources>
