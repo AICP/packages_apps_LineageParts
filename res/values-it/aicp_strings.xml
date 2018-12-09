@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Registra schermo</string>
-  <string name="power_menu_onthego_title">On-The-Go</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Nero</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Le patch di sicurezza vengono rilasciate mensilmente dai fornitore di Google e SoC per risolvere i problemi del sistema che potrebbero essere sfruttati dalle app dannose per aggirare le restrizioni di sicurezza e causare danni temporanei o permanenti al dispositivo. \nMentre le patch della piattaforma vengono aggiornate globalmente ogni mese, le patch del fornitore di tanto in tanto vengono aggiornati dall\'OEM. \nPer mantenere il tuo dispositivo sicuro, assicurati che la tua build AICP sia sempre aggiornata.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Mescola i colori</string>
-  <string name="battery_light_blend_color_summary">Mescola i colori pieni/vuoti corrispondenti alla percentuale della batteria</string>
-  <string name="battery_light_blend_color_reverse_title">Inverti la direzione del colore</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Pieno &#8594; vuoto: rosso &#8592; verde &#8592; blu &#8592; rosso</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Pieno &#8594; vuoto: rosso &#8594; verde &#8594; blu &#8594; rosso</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Registra schermo</string>
+    <string name="power_menu_onthego_title">On-The-Go</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Nero</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Le patch di sicurezza vengono rilasciate mensilmente dai fornitore di Google e SoC per risolvere i problemi del sistema che potrebbero essere sfruttati dalle app dannose per aggirare le restrizioni di sicurezza e causare danni temporanei o permanenti al dispositivo. \nMentre le patch della piattaforma vengono aggiornate globalmente ogni mese, le patch del fornitore di tanto in tanto vengono aggiornati dall\'OEM. \nPer mantenere il tuo dispositivo sicuro, assicurati che la tua build AICP sia sempre aggiornata.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Mescola i colori</string>
+    <string name="battery_light_blend_color_summary">Mescola i colori pieni/vuoti corrispondenti alla percentuale della batteria</string>
+    <string name="battery_light_blend_color_reverse_title">Inverti la direzione del colore</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Pieno &#8594; vuoto: rosso &#8592; verde &#8592; blu &#8592; rosso</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Pieno &#8594; vuoto: rosso &#8594; verde &#8594; blu &#8594; rosso</string>
 </resources>

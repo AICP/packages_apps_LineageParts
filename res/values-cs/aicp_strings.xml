@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Záznam obrazovky</string>
-  <string name="power_menu_onthego_title">On-The-Go</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Černá</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Bezpečnostní záplaty jsou vydávány měsíčně společností Google a dodavateli SoC na řešení nedostatků v systému, které by mohly být zneužity škodlivými aplikacemi na obejití bezpečnostních omezení a mohly by způsobit dočasné nebo trvalé poškození zařízení.\nZáplaty platformy jsou aktualizovány globální každý měsíc, záplaty OEM dodavatelů jsou aktualizovány z času na čas.\nPokud chcete, aby vaše zařízení bylo v bezpečí, ujistěte se, že vaše sestava AICP je vždy aktuální.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Smíšené barvy</string>
-  <string name="battery_light_blend_color_summary">Smíchání barvy odpovídající procentu baterie - plné/prázdné</string>
-  <string name="battery_light_blend_color_reverse_title">Obrácený směr barev</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Nabito &#8594; Vybito: červená &#8592; zelená &#8592; modrá &#8592; červená</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Nabito &#8594; Vybito: červená &#8594; zelená &#8594; modrá &#8594; červená</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Záznam obrazovky</string>
+    <string name="power_menu_onthego_title">On-The-Go</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Černá</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Bezpečnostní záplaty jsou vydávány měsíčně společností Google a dodavateli SoC na řešení nedostatků v systému, které by mohly být zneužity škodlivými aplikacemi na obejití bezpečnostních omezení a mohly by způsobit dočasné nebo trvalé poškození zařízení.\nZáplaty platformy jsou aktualizovány globální každý měsíc, záplaty OEM dodavatelů jsou aktualizovány z času na čas.\nPokud chcete, aby vaše zařízení bylo v bezpečí, ujistěte se, že vaše sestava AICP je vždy aktuální.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Smíšené barvy</string>
+    <string name="battery_light_blend_color_summary">Smíchání barvy odpovídající procentu baterie - plné/prázdné</string>
+    <string name="battery_light_blend_color_reverse_title">Obrácený směr barev</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Nabito &#8594; Vybito: červená &#8592; zelená &#8592; modrá &#8592; červená</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Nabito &#8594; Vybito: červená &#8594; zelená &#8594; modrá &#8594; červená</string>
 </resources>

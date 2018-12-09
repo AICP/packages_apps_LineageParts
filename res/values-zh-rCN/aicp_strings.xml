@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">屏幕录像</string>
-  <string name="power_menu_onthego_title">行走模式</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">黑色</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">安全补丁由 Google 和 SoC 厂商每月发布，用以修复可能会被恶意应用利用、绕过安全限制对你的设备造成暂时或永久损坏的缺陷。\n平台补丁每个月都会统一更新，但厂商补丁只能每次从 OEM 取得。\n要保证你的设备安全，请使用最新版本的 AICP。</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">混合颜色</string>
-  <string name="battery_light_blend_color_summary">根据电量百分比混合满/空颜色</string>
-  <string name="battery_light_blend_color_reverse_title">反转颜色方向</string>
-  <string name="battery_light_blend_color_reverse_summary_off">满 &#8594; 空: 红 &#8592; 绿 &#8592; 蓝 &#8592; 红</string>
-  <string name="battery_light_blend_color_reverse_summary_on">满 &#8594; 空: 红 &#8594; 绿 &#8594; 蓝 &#8594; 红</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">屏幕录像</string>
+    <string name="power_menu_onthego_title">行走模式</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">黑色</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">安全补丁由 Google 和 SoC 厂商每月发布，用以修复可能会被恶意应用利用、绕过安全限制对你的设备造成暂时或永久损坏的缺陷。\n平台补丁每个月都会统一更新，但厂商补丁只能每次从 OEM 取得。\n要保证你的设备安全，请使用最新版本的 AICP。</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">混合颜色</string>
+    <string name="battery_light_blend_color_summary">根据电量百分比混合满/空颜色</string>
+    <string name="battery_light_blend_color_reverse_title">反转颜色方向</string>
+    <string name="battery_light_blend_color_reverse_summary_off">满 &#8594; 空: 红 &#8592; 绿 &#8592; 蓝 &#8592; 红</string>
+    <string name="battery_light_blend_color_reverse_summary_on">满 &#8594; 空: 红 &#8594; 绿 &#8594; 蓝 &#8594; 红</string>
 </resources>

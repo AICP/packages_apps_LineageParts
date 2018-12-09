@@ -16,17 +16,17 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Ekran kaydı</string>
-  <string name="power_menu_onthego_title">Yürüme</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Siyah</string>
-  <!-- Trust interface -->
-  <string name="trust_feature_security_patches_explain">Güvenlik açıklarını ve güvenlik kısıtlamalarını atlamak cihazınızda geçici veya kalıcı bir hasar meydana getirmek için kötü amaçlı uygulamalar tarafından kötüye kullanılabilecek sistemdeki kusurları gidermek amacıyla Google ve SoC satıcıları tarafından aylık olarak yayınlanır.\nYazılım yamaları her ay global olarak güncellendiğinde satıcı yamaları zaman zaman OEM\'den güncellenir.\nCihazınızı güvende tutmak için AICP yapınızın daima güncel olduğundan emin olun.</string>
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Renkleri karıştır</string>
-  <string name="battery_light_blend_color_summary">Pil yüzdesine karşılık gelen tam/boş renkleri karıştırın</string>
-  <string name="battery_light_blend_color_reverse_title">Renk yönünü ters çevir</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Tam &#8594; boş: kırmızı &#8592; yeşil &#8592; mavi &#8592; kırmızı</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Tam &#8594; boş: kırmızı &#8594; yeşil &#8594; mavi &#8594; kırmızı</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Ekran kaydı</string>
+    <string name="power_menu_onthego_title">Yürüme</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Siyah</string>
+    <!-- Trust interface -->
+    <string name="trust_feature_security_patches_explain">Güvenlik açıklarını ve güvenlik kısıtlamalarını atlamak cihazınızda geçici veya kalıcı bir hasar meydana getirmek için kötü amaçlı uygulamalar tarafından kötüye kullanılabilecek sistemdeki kusurları gidermek amacıyla Google ve SoC satıcıları tarafından aylık olarak yayınlanır.\nYazılım yamaları her ay global olarak güncellendiğinde satıcı yamaları zaman zaman OEM\'den güncellenir.\nCihazınızı güvende tutmak için AICP yapınızın daima güncel olduğundan emin olun.</string>
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Renkleri karıştır</string>
+    <string name="battery_light_blend_color_summary">Pil yüzdesine karşılık gelen tam/boş renkleri karıştırın</string>
+    <string name="battery_light_blend_color_reverse_title">Renk yönünü ters çevir</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Tam &#8594; boş: kırmızı &#8592; yeşil &#8592; mavi &#8592; kırmızı</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Tam &#8594; boş: kırmızı &#8594; yeşil &#8594; mavi &#8594; kırmızı</string>
 </resources>

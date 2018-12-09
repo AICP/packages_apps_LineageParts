@@ -16,16 +16,16 @@
 	limitations under the License.
 -->
 <resources>
-  <!-- Power menu -->
-  <string name="power_menu_screenrecord_title">Rekam layar</string>
-  <string name="power_menu_onthego_title">On-The-Go</string>
-  <!-- Berry Lite -->
-  <string name="style_global_entry_black">Hitam</string>
-  <!-- Trust interface -->
-  <!-- Battery light - blend colors -->
-  <string name="battery_light_blend_color_title">Perpaduan warna</string>
-  <string name="battery_light_blend_color_summary">Perpaduan warna penuh/kosong yang sesuai dengan persentase baterai</string>
-  <string name="battery_light_blend_color_reverse_title">Arah warna terbalik</string>
-  <string name="battery_light_blend_color_reverse_summary_off">Penuh &#8594; kosong: merah &#8592; hijau &#8592; biru &#8592; merah</string>
-  <string name="battery_light_blend_color_reverse_summary_on">Penuh &#8594; kosong: merah &#8594; hijau &#8594; biru &#8594; merah</string>
+    <!-- Power menu -->
+    <string name="power_menu_screenrecord_title">Rekam layar</string>
+    <string name="power_menu_onthego_title">On-The-Go</string>
+    <!-- Berry Lite -->
+    <string name="style_global_entry_black">Hitam</string>
+    <!-- Trust interface -->
+    <!-- Battery light - blend colors -->
+    <string name="battery_light_blend_color_title">Perpaduan warna</string>
+    <string name="battery_light_blend_color_summary">Perpaduan warna penuh/kosong yang sesuai dengan persentase baterai</string>
+    <string name="battery_light_blend_color_reverse_title">Arah warna terbalik</string>
+    <string name="battery_light_blend_color_reverse_summary_off">Penuh &#8594; kosong: merah &#8592; hijau &#8592; biru &#8592; merah</string>
+    <string name="battery_light_blend_color_reverse_summary_on">Penuh &#8594; kosong: merah &#8594; hijau &#8594; biru &#8594; merah</string>
 </resources>
