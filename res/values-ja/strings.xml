@@ -456,7 +456,7 @@
     <string name="auto_power_save_summary_off">省電力モードを自動的に有効にしない</string>
     <string name="auto_power_save_never">使用しない</string>
     <string name="expanded_desktop_settings_title">拡張デスクトップ</string>
-    <string name="expanded_desktop_settings_summary">ステータスバーまたはナビゲーションバー、もしくは両方を非表示にして利用できるデスクトップスペースを拡張する</string>
+    <string name="expanded_desktop_settings_summary">ステータスバーまたはナビゲーションバー、もしくは両方を非表示にして利用できるスペースを拡張します</string>
     <string name="expanded_desktop_options_title">カスタマイズのオプション</string>
     <string name="expanded_desktop_style_title">拡張デスクトップのスタイル</string>
     <string name="expanded_desktop_style_hide_nothing">非表示にしない</string>
