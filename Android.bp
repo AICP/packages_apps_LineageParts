@@ -35,5 +35,7 @@ android_app {
         "SettingsLibPreference",
         "SystemUISharedLib",
         "LineagePreferenceLib",
+        "AicpGear-preference",
+        "AicpGear-util",
     ],
 }
