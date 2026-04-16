@@ -11,7 +11,7 @@
 -keep class org.lineageos.lineageparts.gestures.*
 -keep class org.lineageos.lineageparts.hardware.*
 -keep class org.lineageos.lineageparts.input.*
--keep class org.lineageos.lineageparts.lineagestats.*
+#keep class org.lineageos.lineageparts.lineagestats.*
 -keep class org.lineageos.lineageparts.livedisplay.*
 -keep class org.lineageos.lineageparts.notificationlight.*
 -keep class org.lineageos.lineageparts.power.*
