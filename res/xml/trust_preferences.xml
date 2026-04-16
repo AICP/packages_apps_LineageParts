@@ -36,8 +36,10 @@
             android:entryValues="@array/trust_restrict_usb_values"
             android:defaultValue="0" />
 
+<!--
         <lineageos.preference.LineagePartsPreference
             android:key="lineagestats" />
+-->
 
         <ListPreference
             android:key="sms_security_check_limit"
