@@ -363,6 +363,7 @@
             android:excludeFromRecents="true"
             android:label="@string/profile_select" />
 
+<!--
         <activity
             android:name=".logo.PlatLogoActivity"
             android:configChanges="orientation|keyboardHidden"
@@ -385,6 +386,7 @@
                 <category android:name="com.android.internal.category.PLATLOGO" />
             </intent-filter>
         </activity>
+-->
 
     </application>
 </manifest>
