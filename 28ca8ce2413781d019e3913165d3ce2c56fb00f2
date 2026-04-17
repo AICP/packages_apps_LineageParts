@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a5afb25_14c32c5d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2026-04-17T14:04:40Z",
+      "side": 1,
+      "message": "Yep, just commenting it out is the \"better way\"",
+      "revId": "28ca8ce2413781d019e3913165d3ce2c56fb00f2",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
