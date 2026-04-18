@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2a6471a_402a6071",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2026-04-18T09:13:12Z",
+      "side": 1,
+      "message": "Comment removed by: Moshe Barash; Reason: top secret",
+      "revId": "5b3fc0e0363ffceee72f688ddcf36cb641b3460f",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
