@@ -302,6 +302,7 @@
             android:exported="true"
             android:label="@string/contributors_cloud_fragment_title"
             android:targetActivity="PartsActivity">
+<!--
             <intent-filter>
                 <action android:name="com.android.settings.action.IA_SETTINGS" />
                 <action android:name="org.lineageos.lineageparts.CONTRIBUTORS_CLOUD" />
@@ -323,6 +324,7 @@
             <meta-data
                 android:name="com.android.settings.summary"
                 android:resource="@string/summary_empty" />
+-->
         </activity-alias>
 
         <!-- Anonymous Statistics
