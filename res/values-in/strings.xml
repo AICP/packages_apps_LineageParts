@@ -97,7 +97,6 @@
     <string name="live_display_low_power_summary">Menyesuaikan tampilan untuk konsumsi daya terendah tanpa degradasi</string>
     <string name="live_display_enhance_color_title">Meningkatkan warna</string>
     <string name="live_display_enhance_color_summary">Meningkatkan vibran warna dari corak terang, pemandangan dan gambar lain</string>
-    <string name="live_display_color_profile_title">Profil warna</string>
     <string name="live_display_color_profile_standard_title">Standar</string>
     <string name="live_display_color_profile_standard_summary">Warna yang tepat dan putih terang</string>
     <string name="live_display_color_profile_natural_title">Alami</string>

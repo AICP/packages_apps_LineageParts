@@ -88,7 +88,6 @@
     <string name="live_display_low_power_summary">Cuir gleus air an sgrìn airson caomhnadh cumhachd as motha gun chrìonadh</string>
     <string name="live_display_enhance_color_title">Leasaich na dathan</string>
     <string name="live_display_enhance_color_summary">Thoir piseach air beòthad dath craicinn, sheallaidhean is dealbhan eile</string>
-    <string name="live_display_color_profile_title">Pròifil dhathan</string>
     <string name="live_display_color_profile_standard_title">Stannardach</string>
     <string name="live_display_color_profile_standard_summary">Dathan pongail is geal soilleir</string>
     <string name="live_display_color_profile_natural_title">Nàdarra</string>

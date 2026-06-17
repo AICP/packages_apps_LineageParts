@@ -104,7 +104,6 @@
     <string name="live_display_low_power_summary">Настройка на дисплея за ниска консумация на енергия без влошаване</string>
     <string name="live_display_enhance_color_title">Подобряване на цветовете</string>
     <string name="live_display_enhance_color_summary">Подобри цвета на скина, декора и други изображения</string>
-    <string name="live_display_color_profile_title">Цветови профил</string>
     <string name="live_display_color_profile_standard_title">Стандартен</string>
     <string name="live_display_color_profile_standard_summary">Точни цветове и ярки бели</string>
     <string name="live_display_color_profile_natural_title">Естествен</string>

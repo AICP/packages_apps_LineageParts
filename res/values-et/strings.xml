@@ -85,7 +85,6 @@
     <string name="live_display_low_power_summary">Kohanda ekraani madalaimale energiatarbimisele ilma, et see ekraani kahjustaks</string>
     <string name="live_display_enhance_color_title">Parenda värve</string>
     <string name="live_display_enhance_color_summary">Parandage värvide erksust keha toonidel, maastikuvaadetel ja muudel piltidel</string>
-    <string name="live_display_color_profile_title">Värviprofiil</string>
     <string name="live_display_color_profile_standard_title">Klassikaline</string>
     <string name="live_display_color_profile_standard_summary">Täpsed värvid ja eredad valged</string>
     <string name="live_display_color_profile_natural_title">Naturaalne</string>

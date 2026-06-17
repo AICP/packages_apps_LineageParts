@@ -104,7 +104,6 @@
     <string name="live_display_low_power_summary">Régler l\'affichage pour une plus faible consommation sans dégradation</string>
     <string name="live_display_enhance_color_title">Améliorer les couleurs</string>
     <string name="live_display_enhance_color_summary">Améliorer l\'éclat des couleurs des tons chair, des paysages et d\'autres images</string>
-    <string name="live_display_color_profile_title">Profil de couleur</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Couleurs précises et blancs éclatants</string>
     <string name="live_display_color_profile_natural_title">Naturel</string>

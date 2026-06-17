@@ -85,7 +85,6 @@
     <string name="live_display_low_power_summary">Prilagodite prikaz za najnižu potrošnju energije bez degradacije</string>
     <string name="live_display_enhance_color_title">Poboljšanje boje</string>
     <string name="live_display_enhance_color_summary">Poboljšaj treperenje boja svijetlih tonova, scena ili ostalih slika</string>
-    <string name="live_display_color_profile_title">Boja profila</string>
     <string name="live_display_color_profile_standard_title">Standardno</string>
     <string name="live_display_color_profile_standard_summary">Točne boje i svjetla bijela</string>
     <string name="live_display_color_profile_natural_title">Prirodno</string>

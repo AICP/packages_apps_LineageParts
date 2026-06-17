@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">性能を低下させずにディスプレイを最低の消費電力に調整する</string>
     <string name="live_display_enhance_color_title">色を補正</string>
     <string name="live_display_enhance_color_summary">肌の色、風景や他の画像の色の鮮やかさを補正する</string>
-    <string name="live_display_color_profile_title">カラープロファイル</string>
+    <string name="live_display_color_profile_preview">色のプレビュー</string>
     <string name="live_display_color_profile_standard_title">標準</string>
     <string name="live_display_color_profile_standard_summary">正確な色と明るい白に補正します</string>
     <string name="live_display_color_profile_natural_title">自然</string>

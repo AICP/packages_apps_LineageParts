@@ -70,7 +70,6 @@
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g></string>
     <string name="live_display_day">Ass</string>
     <string name="live_display_night">Iḍ</string>
-    <string name="live_display_color_profile_title">Ini n umaɣnu</string>
     <string name="live_display_color_profile_standard_title">Alugen</string>
     <string name="live_display_color_profile_natural_title">Agaman</string>
     <string name="live_display_color_profile_dynamic_title">Asmussan</string>

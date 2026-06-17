@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">Ajustar o ecrã para consumir menos energia, sem degradação</string>
     <string name="live_display_enhance_color_title">Realçar cores</string>
     <string name="live_display_enhance_color_summary">Melhorar a vivacidade da cor de tons de pele, cenário e outras imagens</string>
-    <string name="live_display_color_profile_title">Perfil de cor</string>
+    <string name="live_display_color_profile_preview">Pré-visualização da cor</string>
     <string name="live_display_color_profile_standard_title">Padrão</string>
     <string name="live_display_color_profile_standard_summary">Cores precisas e brancos brilhantes</string>
     <string name="live_display_color_profile_natural_title">Natural</string>

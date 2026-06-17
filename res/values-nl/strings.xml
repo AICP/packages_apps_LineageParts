@@ -103,7 +103,6 @@
     <string name="live_display_low_power_summary">Scherm aanpassen voor laagst mogelijke energieverbruik zonder kwaliteitsverlies</string>
     <string name="live_display_enhance_color_title">Kleuren verbeteren</string>
     <string name="live_display_enhance_color_summary">Kleurlevendigheid verbeteren van huidtinten, landschappen en andere afbeeldingen</string>
-    <string name="live_display_color_profile_title">Kleurprofiel</string>
     <string name="live_display_color_profile_standard_title">Standaard</string>
     <string name="live_display_color_profile_standard_summary">Nauwkeurige kleuren en heldere witwaarden</string>
     <string name="live_display_color_profile_natural_title">Natuurlijk</string>

@@ -84,7 +84,6 @@
     <string name="live_display_low_power_summary">ضبط العرض لاستهلاك أقل للطاقة دون تشويش ما يُعرض</string>
     <string name="live_display_enhance_color_title">تحسين الألوان</string>
     <string name="live_display_enhance_color_summary">تحسين حيوية درجات ألوان البشرة والمشاهد الطبيعية وغيرها من الصور</string>
-    <string name="live_display_color_profile_title">الملف التعريفي للون</string>
     <string name="live_display_color_profile_standard_title">قياسي</string>
     <string name="live_display_color_profile_standard_summary">ألوان دقيقة وبياض ناصع</string>
     <string name="live_display_color_profile_natural_title">طبيعي</string>

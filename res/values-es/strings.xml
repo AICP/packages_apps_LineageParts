@@ -105,7 +105,6 @@
     <string name="live_display_low_power_summary">Ajustar la pantalla al mínimo consumo de batería sin degradación</string>
     <string name="live_display_enhance_color_title">Mejorar colores</string>
     <string name="live_display_enhance_color_summary">Mejorar la viveza del color de tonos de piel, paisajes y otras imágenes</string>
-    <string name="live_display_color_profile_title">Perfil de color</string>
     <string name="live_display_color_profile_standard_title">Estándar</string>
     <string name="live_display_color_profile_standard_summary">Colores precisos y blancos brillantes</string>
     <string name="live_display_color_profile_natural_title">Natural</string>

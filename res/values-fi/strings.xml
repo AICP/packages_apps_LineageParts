@@ -85,7 +85,6 @@
     <string name="live_display_low_power_summary">Säädä näyttö alhaisimpaan virrankäyttötilaan ilman heikentymistä</string>
     <string name="live_display_enhance_color_title">Korosta värejä</string>
     <string name="live_display_enhance_color_summary">Paranna värisävyjä ihonväreissä, maisemakuvissa ja muissa kuvissa</string>
-    <string name="live_display_color_profile_title">Väriprofiili</string>
     <string name="live_display_color_profile_standard_title">Standardi</string>
     <string name="live_display_color_profile_standard_summary">Tarkat värit ja kirkkaat valkoiset</string>
     <string name="live_display_color_profile_natural_title">Luonnollinen</string>

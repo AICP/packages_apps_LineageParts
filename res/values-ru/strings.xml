@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">Подстраивать экран для низкого энергопотребления без ухудшения качества</string>
     <string name="live_display_enhance_color_title">Улучшение цветопередачи</string>
     <string name="live_display_enhance_color_summary">Улучшить сочность оттенков кожи, пейзажей и других изображений</string>
-    <string name="live_display_color_profile_title">Цветовой профиль</string>
+    <string name="live_display_color_profile_preview">Предосмотр цвета</string>
     <string name="live_display_color_profile_standard_title">Стандартный</string>
     <string name="live_display_color_profile_standard_summary">Точная цветопередача и яркие белые тона</string>
     <string name="live_display_color_profile_natural_title">Естественный</string>

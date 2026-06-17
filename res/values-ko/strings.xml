@@ -105,7 +105,6 @@
     <string name="live_display_low_power_summary">열화 없는 한도 내에서 화면을 조정하여 전력 소모 감소</string>
     <string name="live_display_enhance_color_title">색상 향상</string>
     <string name="live_display_enhance_color_summary">피부 톤, 풍경 및 기타 이미지에서 색의 생동감을 향상</string>
-    <string name="live_display_color_profile_title">색상 프로필</string>
     <string name="live_display_color_profile_standard_title">표준</string>
     <string name="live_display_color_profile_standard_summary">정확한 색상 및 밝은 흰색</string>
     <string name="live_display_color_profile_natural_title">자연스러운</string>

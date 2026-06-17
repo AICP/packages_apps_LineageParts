@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">Prilagodi zaslon za najmanjšo porabo energije brez poslabšanja</string>
     <string name="live_display_enhance_color_title">Izboljšaj barve</string>
     <string name="live_display_enhance_color_summary">Izboljšaj dinamičnost barv tonov kože, pokrajine in drugih slik</string>
-    <string name="live_display_color_profile_title">Barvni profil</string>
+    <string name="live_display_color_profile_preview">Predogled barve</string>
     <string name="live_display_color_profile_standard_title">Običajen</string>
     <string name="live_display_color_profile_standard_summary">Natančne in svetlo bele barve</string>
     <string name="live_display_color_profile_natural_title">Naraven</string>

@@ -100,7 +100,6 @@
     <string name="live_display_low_power_summary">Addasu\'r dangosydd i ddefnyddio\'r maint isaf o bŵer heb ddirywiad</string>
     <string name="live_display_enhance_color_title">Gwella lliwiau</string>
     <string name="live_display_enhance_color_summary">Gwella lliwiau croen, golygfeydd, a delweddau eraill</string>
-    <string name="live_display_color_profile_title">Proffil lliwiau</string>
     <string name="live_display_color_profile_standard_title">Safonol</string>
     <string name="live_display_color_profile_standard_summary">Lliwiau cywir a gwyn llachar</string>
     <string name="live_display_color_profile_natural_title">Naturiol</string>

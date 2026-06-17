@@ -85,7 +85,6 @@
     <string name="live_display_low_power_summary">Nastaviť zobrazenie pre najnižšiu spotrebu energie bez zhoršenia čitateľnosti</string>
     <string name="live_display_enhance_color_title">Vylepšiť farby</string>
     <string name="live_display_enhance_color_summary">Zlepšiť živosť farieb pleťových odtieňov, scenérie a ďalších obrázkov</string>
-    <string name="live_display_color_profile_title">Farebný profil</string>
     <string name="live_display_color_profile_standard_title">Štandard</string>
     <string name="live_display_color_profile_standard_summary">Presné farby a jasná biela</string>
     <string name="live_display_color_profile_natural_title">Prirodzené</string>

@@ -88,7 +88,6 @@
     <string name="live_display_low_power_summary">Axusta a pantalla ata o mínimo consumo de nergía sen perda de calidade</string>
     <string name="live_display_enhance_color_title">Mellorar cores</string>
     <string name="live_display_enhance_color_summary">Mellora a viveza dos tons da pel, entorno e outras imaxes</string>
-    <string name="live_display_color_profile_title">Pefil de cor</string>
     <string name="live_display_color_profile_standard_title">Estándar</string>
     <string name="live_display_color_profile_standard_summary">Cores precisas e brancos brillantes</string>
     <string name="live_display_color_profile_natural_title">Natural</string>

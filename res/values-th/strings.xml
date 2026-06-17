@@ -84,7 +84,6 @@
     <string name="live_display_low_power_summary">ปรับการแสดงผลให้ใช้พลังงานน้อยที่สุดโดยที่ไม่ลดประสิทธิภาพ</string>
     <string name="live_display_enhance_color_title">เพิ่มประสิทธิภาพสี</string>
     <string name="live_display_enhance_color_summary">ปรับปรุงความมีชีวิตชีวาของสีโดยเน้นโทนสี ภาพทิวทัศน์ และภาพอื่น ๆ</string>
-    <string name="live_display_color_profile_title">โปรไฟล์สี</string>
     <string name="live_display_color_profile_standard_title">มาตรฐาน</string>
     <string name="live_display_color_profile_standard_summary">สีที่ถูกต้องและขาวสว่าง</string>
     <string name="live_display_color_profile_natural_title">ธรรมชาติ</string>

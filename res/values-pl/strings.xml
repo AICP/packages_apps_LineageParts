@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">Dostosuj sposób wyświetlania do najniższego zużycia energii bez utraty jakości</string>
     <string name="live_display_enhance_color_title">Wzmocnienie kolorów</string>
     <string name="live_display_enhance_color_summary">Popraw odczucie kolorów skóry, scenerii oraz innych obrazów</string>
-    <string name="live_display_color_profile_title">Profil kolorów</string>
+    <string name="live_display_color_profile_preview">Podgląd koloru</string>
     <string name="live_display_color_profile_standard_title">Standardowe</string>
     <string name="live_display_color_profile_standard_summary">Dokładne odwzorowanie kolorów i jasności bieli</string>
     <string name="live_display_color_profile_natural_title">Naturalne</string>
@@ -418,7 +418,7 @@
     <string name="contributors_cloud_fragment_title">Twórcy</string>
     <string name="contributors_cloud_loading_message">Wczytywanie danych o twórcach\u2026</string>
     <string name="contributors_cloud_failed_message">Nie można wczytać danych o twórcach</string>
-    <string name="contributor_info_menu">Informacje o twórcach</string>
+    <string name="contributor_info_menu">Informacje o twórcy</string>
     <string name="contributor_info_msg"><![CDATA[<b>Nazwa:</b><xliff:g id="name"></xliff:g><br/><br/> 
                  <b>Pseudonim:</b><xliff:g id="nick">%2$s</xliff:g><br/><br/>
                  <b>Poprawki:</b><xliff:g id="commits">%3$s</xliff:g>]]></string>

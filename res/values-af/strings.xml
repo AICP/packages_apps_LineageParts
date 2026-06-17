@@ -78,7 +78,6 @@
     <string name="live_display_low_power_summary">Verstel skerm vir laagste kragverbruik sonder verswakking</string>
     <string name="live_display_enhance_color_title">Verbeter kleure</string>
     <string name="live_display_enhance_color_summary">Verbeter kleur impak van vlees toon, natuurskoon en ander beelde</string>
-    <string name="live_display_color_profile_title">Kleur profiel</string>
     <string name="live_display_color_profile_standard_title">Standaard</string>
     <string name="live_display_color_profile_standard_summary">Akkurate kleure en helder wit</string>
     <string name="live_display_color_profile_natural_title">Natuurlik</string>

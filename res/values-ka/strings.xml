@@ -104,7 +104,6 @@
     <string name="live_display_low_power_summary">მორგება ენერგიის უმცირესი მოხმარებისთვის, ჩვენების გაუარესების გარეშე.</string>
     <string name="live_display_enhance_color_title">გაუმჯობესებული ფერები</string>
     <string name="live_display_enhance_color_summary">გაუმჯობესებული შეფერილობა კანისთვის, ხედებისა და სხვა სახის სურათებისთვის</string>
-    <string name="live_display_color_profile_title">ფერების პროფილი</string>
     <string name="live_display_color_profile_standard_title">ჩვეულებრივი</string>
     <string name="live_display_color_profile_standard_summary">ზუსტი ფერები და კაშკაშა სითეთრე</string>
     <string name="live_display_color_profile_natural_title">ბუნებრივი</string>

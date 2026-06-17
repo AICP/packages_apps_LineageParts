@@ -105,7 +105,6 @@
     <string name="live_display_low_power_summary">Rregullo ekranin për të mundësuar konsumimin më të ulët të energjisë pa degradim</string>
     <string name="live_display_enhance_color_title">Përmirëso ngjyrat</string>
     <string name="live_display_enhance_color_summary">Përmirëso gjallërinë e ngjyrave të tonit të lëkurës, peizazheve, dhe imazheve të tjera</string>
-    <string name="live_display_color_profile_title">Profili i ngjyrave</string>
     <string name="live_display_color_profile_standard_title">Standart</string>
     <string name="live_display_color_profile_standard_summary">Ngjyrat dhe ndriçimi i së bardhës janë të sakta</string>
     <string name="live_display_color_profile_natural_title">Natyral</string>

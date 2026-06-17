@@ -78,7 +78,6 @@
     <string name="live_display_low_power_summary">Прилагодете го екранот за најниска потрошувачка на енергија без деградација</string>
     <string name="live_display_enhance_color_title">Подобрете ги боите</string>
     <string name="live_display_enhance_color_summary">Подобрете ја динамиката на боите од тонови на месо, сцени и други слики</string>
-    <string name="live_display_color_profile_title">Профил на боја</string>
     <string name="live_display_color_profile_standard_title">Стандардно</string>
     <string name="live_display_color_profile_standard_summary">Точни бои и светли бели</string>
     <string name="live_display_color_profile_natural_title">Природно</string>

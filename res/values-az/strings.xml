@@ -105,7 +105,6 @@
     <string name="live_display_low_power_summary">Ekranda xarablaşma olmadan ekranı ən aşağı enerji istehlakı üçün nizamlayın</string>
     <string name="live_display_enhance_color_title">Rəngləri artır</string>
     <string name="live_display_enhance_color_summary">Dəri tonu, səhnə və digər təsvirlərin rəng titrəməsini təkmilləşdirər</string>
-    <string name="live_display_color_profile_title">Rəng profili</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Dəqiq rənglər və parlaq ağlar</string>
     <string name="live_display_color_profile_natural_title">Tәbii</string>

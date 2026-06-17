@@ -61,7 +61,6 @@
     <string name="live_display_outdoor_mode_summary">Павялічыць яркасць і насычанасць аўтаматычна пры яркім сонечным святле</string>
     <string name="live_display_low_power_title">Зменшыць спажыванне энергіі</string>
     <string name="live_display_enhance_color_summary">Палепшыць сакавітасць адценняў скуры, краявідаў і іншых відарысаў</string>
-    <string name="live_display_color_profile_title">Профіль колеру</string>
     <string name="live_display_color_profile_standard_title">Стандартны</string>
     <string name="live_display_color_profile_standard_summary">Дакладная перадача колераў і яркія белыя тоны</string>
     <string name="live_display_color_profile_natural_title">Прыродны</string>

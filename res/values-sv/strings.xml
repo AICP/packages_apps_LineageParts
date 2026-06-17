@@ -103,7 +103,6 @@
     <string name="live_display_low_power_summary">Justera skärmen för lägsta möjliga energiförbrukning utan någon försämring</string>
     <string name="live_display_enhance_color_title">Förbättra färger</string>
     <string name="live_display_enhance_color_summary">Förbättra färglyster på hudtoner, landskap, och andra bilder</string>
-    <string name="live_display_color_profile_title">Färgprofil</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Korrekta färger och kritvitt</string>
     <string name="live_display_color_profile_natural_title">Naturlig</string>

@@ -78,7 +78,6 @@
     <string name="live_display_low_power_summary">Justere visningen for laveste strømforbruk uten degradering</string>
     <string name="live_display_enhance_color_title">Forbedre farger</string>
     <string name="live_display_enhance_color_summary">Forbedre fargefullhet på hudfarger, natur og andre bilder</string>
-    <string name="live_display_color_profile_title">Fargeprofil</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Nøyaktige farger og lyse hvitfarger</string>
     <string name="live_display_color_profile_natural_title">Naturlig</string>

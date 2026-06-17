@@ -78,7 +78,6 @@
     <string name="live_display_low_power_summary">Налаштування екрану для найнижчого енергоспоживання без погіршення зображення</string>
     <string name="live_display_enhance_color_title">Покращити кольори</string>
     <string name="live_display_enhance_color_summary">Поліпшити соковитість відтінків шкіри, пейзажів та інших зображень</string>
-    <string name="live_display_color_profile_title">Колірний профіль</string>
     <string name="live_display_color_profile_standard_title">Стандартний</string>
     <string name="live_display_color_profile_standard_summary">Точна передача кольору та яскраві білі кольори</string>
     <string name="live_display_color_profile_natural_title">Природний</string>

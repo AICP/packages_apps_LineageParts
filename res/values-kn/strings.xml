@@ -81,7 +81,6 @@
     <string name="live_display_low_power_title">ಶಕ್ತಿ ಬಳಕೆ ಕುಗ್ಗಿಸು</string>
     <string name="live_display_enhance_color_title">ಬಣ್ಣಗಳನ್ನು ವರ್ಧಿಸು</string>
     <string name="live_display_enhance_color_summary">ಚರ್ಮ ಛಾಯೆ, ದೃಶ್ಯಾವಳಿ, ಮತ್ತು ಇತರೆ ಚಿತ್ರಗಳ ಬಣ್ಣದ ಹೊಳಪನ್ನು ಉತ್ತಮಗೊಳಿಸು</string>
-    <string name="live_display_color_profile_title">ಬಣ್ಣದ ರೇಖಾಕೃತಿ</string>
     <string name="live_display_color_profile_standard_title">ಪ್ರಮಾಣಿತ</string>
     <string name="live_display_color_profile_standard_summary">ನಿಖರ ಬಣ್ಣಗಳು ಮತ್ತು ಪ್ರಖರ ಬಿಳಿಗಳು</string>
     <string name="live_display_color_profile_natural_title">ನೈಸರ್ಗಿಕ</string>

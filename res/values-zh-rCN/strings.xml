@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">在不降低亮度的情况下调整屏幕使耗电最低</string>
     <string name="live_display_enhance_color_title">增强色彩</string>
     <string name="live_display_enhance_color_summary">为肤色、风景和其他图像提升色彩饱和度</string>
-    <string name="live_display_color_profile_title">颜色配置文件</string>
+    <string name="live_display_color_profile_preview">颜色预览</string>
     <string name="live_display_color_profile_standard_title">标准</string>
     <string name="live_display_color_profile_standard_summary">准确的颜色和明亮的白色</string>
     <string name="live_display_color_profile_natural_title">自然</string>

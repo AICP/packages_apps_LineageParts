@@ -105,7 +105,7 @@
     <string name="live_display_low_power_summary">Reglează afişajul pentru cel mai mic consum de energie fără degradare</string>
     <string name="live_display_enhance_color_title">Sporește culorile</string>
     <string name="live_display_enhance_color_summary">Îmbunătățește vibranța culorilor pentru tonuri, peisaje și alte imagini</string>
-    <string name="live_display_color_profile_title">Profilul culorii</string>
+    <string name="live_display_color_profile_preview">Previzualizarea culorii</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Culori precise și alb luminos</string>
     <string name="live_display_color_profile_natural_title">Natural</string>
