@@ -105,6 +105,7 @@
     <string name="live_display_low_power_summary">Coigeartaigh taispeáint don tomhaltas cumhachta is ísle gan díghrádú</string>
     <string name="live_display_enhance_color_title">Feabhas a chur ar dathanna</string>
     <string name="live_display_enhance_color_summary">Feabhas a chur ar bheocht datha toin feola, radharcra agus íomhánna eile</string>
+    <string name="live_display_color_profile_preview">Réamhamharc datha</string>
     <string name="live_display_color_profile_standard_title">Caighdeán</string>
     <string name="live_display_color_profile_standard_summary">Dathanna beacht agus bánna geala</string>
     <string name="live_display_color_profile_natural_title">Nádúrtha</string>

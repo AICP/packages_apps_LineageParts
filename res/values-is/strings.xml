@@ -94,6 +94,7 @@
     <string name="live_display_low_power_summary">Aðlaga skjá fyrir minnstu orkunotkun án skerðingar afkasta</string>
     <string name="live_display_enhance_color_title">Bæta liti</string>
     <string name="live_display_enhance_color_summary">Bæta skærleika lita í húðtónum, landslagi og öðrum myndum</string>
+    <string name="live_display_color_profile_preview">Forskoðun litar</string>
     <string name="live_display_color_profile_standard_title">Staðlað</string>
     <string name="live_display_color_profile_standard_summary">Nákvæmir litir og bjartir hvítir</string>
     <string name="live_display_color_profile_natural_title">Náttúra</string>

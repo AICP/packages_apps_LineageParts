@@ -105,6 +105,7 @@
     <string name="live_display_low_power_summary">Regola il display per un minore consumo energetico senza degradazione</string>
     <string name="live_display_enhance_color_title">Migliora colori</string>
     <string name="live_display_enhance_color_summary">Migliora la vividezza dei colori dei toni della pelle, dei paesaggi e di altre immagini</string>
+    <string name="live_display_color_profile_preview">Anteprima colore</string>
     <string name="live_display_color_profile_standard_title">Predefinito</string>
     <string name="live_display_color_profile_standard_summary">Colori accurati e bianchi luminosi</string>
     <string name="live_display_color_profile_natural_title">Naturale</string>
