@@ -105,6 +105,7 @@
     <string name="live_display_low_power_summary">يورۇقلۇقىنى تۆۋەنلەتمىگەن ئەھۋالدا ئېكراننى تەڭشەپ توك سەرپىياتىنى تۆۋەنلىتىدۇ</string>
     <string name="live_display_enhance_color_title">كۈچەيتىلگەن رەڭ</string>
     <string name="live_display_enhance_color_summary">تېرە رەڭگى، مەنزىرە ۋە باشقا سۈرەتلەرنىڭ رەڭ تويۇنۇش دەرىجىسىنى ئۆرلىتىدۇ</string>
+    <string name="live_display_color_profile_preview">رەڭنى ئالدىن كۆزەت</string>
     <string name="live_display_color_profile_standard_title">ئۆلچەم</string>
     <string name="live_display_color_profile_standard_summary">ئېنىق رەڭ ۋە يورۇق ئاق</string>
     <string name="live_display_color_profile_natural_title">تەبىئىي</string>

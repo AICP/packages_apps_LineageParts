@@ -105,6 +105,7 @@
     <string name="live_display_low_power_summary">התאם את התצוגה עבור צריכת האנרגיה הנמוכה ביותר ללא פגיעה באיכות</string>
     <string name="live_display_enhance_color_title">שפר צבעים</string>
     <string name="live_display_enhance_color_summary">שפר את רווית הצבעים של גווני עור, נופים וסוגי תמונות נוספים</string>
+    <string name="live_display_color_profile_preview">תצוגה מקדימה של צבע</string>
     <string name="live_display_color_profile_standard_title">רגיל</string>
     <string name="live_display_color_profile_standard_summary">צבעים מדויקים וגווני לבן בהירים</string>
     <string name="live_display_color_profile_natural_title">טבעי</string>
