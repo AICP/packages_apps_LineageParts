@@ -105,6 +105,7 @@
     <string name="live_display_low_power_summary">تنظیم صفحه برای مصرف کمترین نیرو بدون کاهش کارایی</string>
     <string name="live_display_enhance_color_title">بهبود رنگ‌ها</string>
     <string name="live_display_enhance_color_summary">بهبود طراوت رنگ پوست بدن، مناظر و تصاویر دیگر</string>
+    <string name="live_display_color_profile_preview">پیش‌نمایش رنگ</string>
     <string name="live_display_color_profile_standard_title">استاندارد</string>
     <string name="live_display_color_profile_standard_summary">رنگ‌های دقیق و سفید روشن</string>
     <string name="live_display_color_profile_natural_title">طبیعی</string>
@@ -398,6 +399,8 @@
     <string name="network_traffic_position_title">موقعیت</string>
     <string name="network_traffic_autohide">پنهان‌کردن خودکار</string>
     <string name="network_traffic_autohide_summary">مخفی‌کردن سرعت تبادل شبکه در زمان عدم فعالیت</string>
+    <string name="network_traffic_hide_arrows">پنهان کردن فلش‌ها</string>
+    <string name="network_traffic_hide_arrows_summary">پنهان کردن فلش‌های آپلود و دانلود</string>
     <string name="network_traffic_units_title">واحدهای اندازه‌گیری ترافیک</string>
     <string name="network_traffic_units_kilobits">کیلوبیت بر ثانیه (kb/s)</string>
     <string name="network_traffic_units_megabits">مگابیت بر ثانیه (Mb/s)</string>
@@ -418,7 +421,8 @@
     <string name="contributor_info_menu">اطّلاعات مشارکت کننده</string>
     <string name="contributor_info_msg"><![CDATA[<b>اسم:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/>
                  <b>لقب:</b> <xliff:g id="nick">%2$s</xliff:g><br/><br/>
-                 <b>متعهد:</b> <xliff:g id="commits">%3$s</xliff:g>]]></string>
+                 <b>متعهد:</b> <xliff:g id="commits">%3$s</xliff:g>
+]]></string>
     <string name="contributions_info_menu">اطّلاعات مشارکت کنندگان</string>
     <string name="contributions_info_msg"><![CDATA[<b>کل مشارکت کنندگان:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>کل تعهدات:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
@@ -499,7 +503,9 @@
     <string name="touchscreen_gesture_action_email">مشاهده ایمیل‌ها</string>
     <string name="touchscreen_gesture_action_messages">دیدن پیام‌هایتان</string>
     <string name="touchscreen_gesture_action_play_pause_music">پخش/توقف موسیقی</string>
-    <string name="touchscreen_gesture_action_previous_track">انتقال به آهنگ قبلی.</string>
+    <string name="touchscreen_gesture_action_previous_track">انتقال به آهنگ قبلی.
+
+</string>
     <string name="touchscreen_gesture_action_next_track">پرش به آهنگ بعدی</string>
     <string name="touchscreen_gesture_action_volume_down">کاهش صدای رسانه</string>
     <string name="touchscreen_gesture_action_volume_up">افزایش صدای رسانه</string>
